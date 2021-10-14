@@ -1,6 +1,10 @@
 ---
 # Display name
-title: Dr. Marcos Fernández-Martínez
+title: Marcos Fernández Martínez
+
+# Username (this should match the folder name)
+authors:
+- marcos-fernandez-martinez
 
 # Is this the primary user of the site?
 superuser: true

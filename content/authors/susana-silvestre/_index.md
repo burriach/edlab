@@ -1,35 +1,35 @@
 ---
 # Display name
-title: Marina Vergotti
+title: Susana Silvestre
 
 # Username (this should match the folder name)
 authors:
-- mvergotti
+- susana-silvestre
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BSc Student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Universitat de Barcelona
-  url: 
+- name: Global Ecology Unit - CREAF
+  url: "http://globalecology.creaf.cat/wp-content/uploads/2020/12/CV_ingles_Susana_Silvestre.pdf"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc student supervised by Prof. Josep Peñuelas and Dr. Marcos Fernández-Martínez.  
+bio: PhD student supervised by Prof. Josep Peñuelas, and Drs. Romà Ogaya and Marcos Fernández-Martínez.  
 
 interests:
-- Fruit production
-- Remote sensing
-- climate
+- Ecophysiology
+- Population dynamics
+- Drought and climate change
 
 education:
   courses:
-  - course: Biology
-    institution: Universitat de Barcelona
-    year: 2018
+  - course: PhD in Terrestrial Ecology
+    institution: Universitat Autònoma de Barcelona
+    year: Since 2020
 
 
 # Social/Academic Networking
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 
+  link: 'mailto:s.silvestre@creaf.uab.cat'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -61,7 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students
 ---
 
-BSc student supervised by Prof. Josep Peñuelas, and Dr.Marcos Fernández-Martínez. Marina investigated trade-offs between growth and reproduction in European forests using remote sensing. 
+PhD student supervised by Prof. Josep Peñuelas, and Drs. Romà Ogaya and Marcos Fernández-Martínez. Susana Silvestre studies the effect of long-term experimental drought on Mediterranean forests and shrublands.

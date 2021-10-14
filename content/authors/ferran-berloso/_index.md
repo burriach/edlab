@@ -1,34 +1,35 @@
 ---
 # Display name
-title: Ruben Olmo
+title: Ferran Berloso Clarà
 
 # Username (this should match the folder name)
 authors:
-- rolmo
+- ferran-berloso
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-- name: Edafology Unit - CREAF
-  url: ""
+- name: Universitat de Barcelona
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student supervised by Prof. Xavier Domene and Dr.  Marcos Fernández-Martínez. Coming soon!
+bio: MSc student supervised by Prof. Francesc Sabater, and Dr. Marcos Fernández-Martínez.  
 
 interests:
-- Soil biodiversity
 - Community ecology
+- Bryophytes
+- Functional traits
 
 education:
   courses:
-  - course: PhD in Terrestrial Ecology
-    institution: Universitat Autònoma de Barcelona
-    year: Starting soon
+  - course: Master in Ecology
+    institution: Universitat de Barcelona
+    year: 2017-2018
 
 
 # Social/Academic Networking
@@ -38,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:'
+  link: 
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -60,7 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
 
-Ruben Olmo will soon start his PhD supervised by Prof. Xavier Domene from the Unit of Edaphology and Dr. Marcos Fernández Martínez from the EDM.
+MSc student supervised by Prof. Francesc Sabater and Dr. Marcos Fernández-Martínez. Ferran studied how bryophyte functional traits are related to their environment

@@ -8,7 +8,7 @@ authors:
 - Marcos Fernández-Martínez
 - Catherine Preece
 - Jordi Corbera
-- Oriol Cano
+- Oriol Cano-Rocabayera
 - Joan Garcia‐Porta
 - Michał Bogdziewicz
 - Jordi Sardans

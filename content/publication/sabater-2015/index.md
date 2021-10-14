@@ -11,7 +11,7 @@ authors:
 - Jordi Corbera
 - Mercè Calpe
 - Guillem Torner
-- Oriol Cano
+- Oriol Cano-Rocabayera
 - Guillem Corbera
 - Oriol Ciurana
 - Josep Maria Parera

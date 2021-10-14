@@ -20,6 +20,7 @@ content:
   - Principal Investigators
   - Researchers
   - PhD Students
+  - Collaborators
   - Grad Students
   - Administration
   - Visitors

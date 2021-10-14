@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Ferran Berloso Clarà
+title: Marina Vergotti
 
 # Username (this should match the folder name)
 authors:
-- fberloso
+- m.j.-vergotti
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc Student
+role: BSc Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,18 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: MSc student supervised by Prof. Francesc Sabater, and Dr. Marcos Fernández-Martínez.  
+bio: BSc student supervised by Prof. Josep Peñuelas and Dr. Marcos Fernández-Martínez.  
 
 interests:
-- Community ecology
-- Bryophytes
-- Functional traits
+- Fruit production
+- Remote sensing
+- climate
 
 education:
   courses:
-  - course: Master in Ecology
+  - course: Biology
     institution: Universitat de Barcelona
-    year: 2017-2018
+    year: 2018
 
 
 # Social/Academic Networking
@@ -64,4 +64,4 @@ user_groups:
 - Alumni
 ---
 
-MSc student supervised by Prof. Francesc Sabater and Dr. Marcos Fernández-Martínez. Ferran studied how bryophyte functional traits are related to their environment
+BSc student supervised by Prof. Josep Peñuelas, and Dr.Marcos Fernández-Martínez. Marina investigated trade-offs between growth and reproduction in European forests using remote sensing. 

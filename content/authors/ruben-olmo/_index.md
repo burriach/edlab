@@ -1,35 +1,34 @@
 ---
 # Display name
-title: Miquel Bes Garcia
+title: Ruben Olmo
 
 # Username (this should match the folder name)
 authors:
-- mbes
+- ruben-olmo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BSc Student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Universitat de Barcelona
-  url: 
+- name: Edafology Unit - CREAF
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc student supervised by Prof. Francesc Sabater, and Dr. Marcos Fernández-Martínez.  
+bio: PhD student supervised by Prof. Xavier Domene and Dr.  Marcos Fernández-Martínez. Coming soon!
 
 interests:
+- Soil biodiversity
 - Community ecology
-- Bryophytes
-- Water chemistry
 
 education:
   courses:
-  - course: BSc in Environmental Sciences
-    institution: Universitat de Barcelona
-    year: 2016
+  - course: PhD in Terrestrial Ecology
+    institution: Universitat Autònoma de Barcelona
+    year: Starting soon
 
 
 # Social/Academic Networking
@@ -39,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 
+  link: 'mailto:'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -61,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students
 ---
 
-BSc student supervised by Prof. Francesc Sabater and Dr. Marcos Fernández-Martínez. Miquel Bes studied how bryophyte species are distributed along a gradient of water chemistry and climate.
+Ruben Olmo will soon start his PhD supervised by Prof. Xavier Domene from the Unit of Edaphology and Dr. Marcos Fernández Martínez from the EDM.
