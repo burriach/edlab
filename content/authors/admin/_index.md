@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marcos Fernández Martínez
+title: Dr. Marcos Fernández-Martínez
 
 # Is this the primary user of the site?
 superuser: true
