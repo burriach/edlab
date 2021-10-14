@@ -1,27 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Nutrient scarcity as a selective pressure for mast seeding
+title: 'Towards a moss sclerophylly continuum: Evolutionary history, water chemistry
+  and climate control traits of hygrophytic mosses'
 subtitle: ''
 summary: ''
 authors:
-- Marcos Fernández-Martínez
-- I. Pearse
-- J. Sardans
-- F. Sayol
-- W. D. Koenig
-- J. M. LaMontagne
-- M. Bogdziewicz
-- A. Collalti
-- A. Hacket-Pain
-- G. Vacchiano
-- J. M. Espelta
-- J. Peñuelas
-- I. A. Janssens
-tags: []
+- Marcos Fernández‐Martínez
+- Ferran Berloso
+- Jordi Corbera
+- Joan Garcia‐Porta
+- Ferran Sayol
+- Catherine Preece
+- Francesc Sabater
+tags:
+- '"bryophytes"'
+- '"calcium carbonate"'
+- '"life‐history traits"'
+- '"morphology"'
+- '"water conductivity"'
 categories: []
 date: '2019-12-01'
-lastmod: 2021-10-13T18:18:15+02:00
+lastmod: 2021-10-14T15:13:06+02:00
 featured: false
 draft: false
 
@@ -39,23 +39,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-13T16:18:15.080404Z'
+publishDate: '2021-10-14T13:13:05.111782Z'
 publication_types:
 - '2'
-abstract: Mast seeding is one of the most intriguing reproductive traits in nature.
-  Despite its potential drawbacks in terms of fitness, the widespread existence of
-  this phenomenon suggests that it should have evolutionary advantages under certain
-  circumstances. Using a global dataset of seed production time series for 219 plant
-  species from all of the continents, we tested whether masting behaviour appears
-  predominantly in species with low foliar nitrogen and phosphorus concentrations,
-  when controlling for local climate and productivity. Here, we show that masting
-  intensity is higher in species with low foliar N and P concentrations, and especially
-  in those with imbalanced N:P ratios, and that the evolutionary history of masting
-  behaviour has been linked to that of nutrient economy. Our results support the hypothesis
-  that masting is stronger in species growing under limiting conditions and suggest
-  that this reproductive behaviour might have evolved as an adaptation to nutrient
-  limitations and imbalances.
-publication: '*Nature Plants*'
-url_pdf: http://www.nature.com/articles/s41477-019-0549-y
-doi: 10.1038/s41477-019-0549-y
+abstract: ''
+publication: '*Functional Ecology*'
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13443
+doi: 10.1111/1365-2435.13443
 ---
