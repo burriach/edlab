@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Josep Peñuelas
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Philippe Ciais
 - David Jou
 - Shilong Piao

@@ -10,7 +10,7 @@ authors:
 - Aida Viza
 - Guillem Torner
 - Catherine Preece
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 tags: []
 categories: []
 date: '2021-01-01'

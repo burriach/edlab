@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - M.J. Vergotti
-- M. Fernández-Martínez
+- Marcos Fernández-Martínez
 - S.C. Kefauver
 - I.A. Janssens
 - J. Peñuelas

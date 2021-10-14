@@ -5,7 +5,7 @@ title: Nutrients control reproductive traits of hygrophytic bryophytes
 subtitle: ''
 summary: ''
 authors:
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Catherine Preece
 - Jordi Corbera
 - Oriol Cano

@@ -6,7 +6,7 @@ title: Bryophyte C:N:P stoichiometry, biogeochemical niches and elementome plast
 subtitle: ''
 summary: ''
 authors:
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Catherine Preece
 - Jordi Corbera
 - Oriol Cano

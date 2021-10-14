@@ -13,7 +13,7 @@ authors:
 - Michal Oravec
 - Kristýna Vecerová
 - Otmar Urban
-- Marcos Fernández-Mart\ńez
+- Marcos Fernández-Martínez
 - Teodor Parella
 - Josep Peñuelas
 tags: []

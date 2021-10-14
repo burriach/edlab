@@ -5,7 +5,7 @@ title: Global trends in carbon sinks and their relationships with CO2 and temper
 subtitle: ''
 summary: ''
 authors:
-- M. Fernández-Martínez
+- Marcos Fernández-Martínez
 - J. Sardans
 - F. Chevallier
 - P. Ciais

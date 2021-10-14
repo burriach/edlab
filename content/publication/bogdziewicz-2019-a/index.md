@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Michał Bogdziewicz
 - Jakub Szymkowiak
-- Marcos Fernandez-Martinez
+- Marcos Fernández-Martínez
 - Josep Peñuelas
 - Josep M. Espelta
 tags:

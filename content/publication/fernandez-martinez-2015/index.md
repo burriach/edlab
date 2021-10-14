@@ -6,7 +6,7 @@ title: Reply to 'Uncertain effects of nutrient availability on global forest car
 subtitle: ''
 summary: ''
 authors:
-- M. Fernández-Martínez
+- Marcos Fernández-Martínez
 - S. Vicca
 - I. A. Janssens
 - J. Sardans

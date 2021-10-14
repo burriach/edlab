@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dr Marcos Fernández Martínez
+title: Marcos Fernández-Martínez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher - PI of the EDLab
+role: Postdoctoral researcher - PI of the EDM research group
 
 # Organizations/Affiliations to show in About widget
 organizations:

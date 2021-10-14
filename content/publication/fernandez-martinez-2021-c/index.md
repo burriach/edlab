@@ -5,7 +5,7 @@ title: Do Bryophyte Elemental Concentrations Explain Their Morphological Traits?
 subtitle: ''
 summary: ''
 authors:
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Jordi Corbera
 - Oriol Cano-Rocabayera
 - Francesc Sabater

@@ -19,7 +19,7 @@ authors:
 - M. Wu
 - J. A. Berry
 - E. Campbell
-- M. Fernández-Martínez
+- Marcos Fernández-Martínez
 - R. Alkama
 - S. Sitch
 - P. Friedlingstein

@@ -5,7 +5,7 @@ title: 'Measuring temporal patterns in ecology: The case of mast seeding'
 subtitle: ''
 summary: ''
 authors:
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Josep Peñuelas
 tags:
 - '"creaf-"'

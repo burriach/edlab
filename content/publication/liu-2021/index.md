@@ -9,7 +9,7 @@ authors:
 - Daijun Liu
 - Chao Zhang
 - Romà Ogaya
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Thomas A. M. Pugh
 - Josep Peñuelas
 tags:

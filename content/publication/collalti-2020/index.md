@@ -10,7 +10,7 @@ authors:
 - A. Stockmarr
 - A. Cescatti
 - R. Alkama
-- M. Fernández-Martínez
+- Marcos Fernández-Martínez
 - G. Matteucci
 - S. Sitch
 - P. Friedlingstein

@@ -5,7 +5,7 @@ title: Nutrient scarcity as a selective pressure for mast seeding
 subtitle: ''
 summary: ''
 authors:
-- M. Fernández-Martínez
+- Marcos Fernández-Martínez
 - I. Pearse
 - J. Sardans
 - F. Sayol

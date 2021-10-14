@@ -11,7 +11,7 @@ authors:
 - Nathalie Cools
 - Bruno De Vos
 - Sophia Etzold
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Ivan A. Janssens
 - Päivi Merilä
 - Josep Peñuelas

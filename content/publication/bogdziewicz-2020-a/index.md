@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Michał Bogdziewicz
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Josep M. Espelta
 - Romà Ogaya
 - Josep Penuelas

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - O. Margalef
 - J. Sardans
-- M. Fernández-Martínez
+- Marcos Fernández-Martínez
 - R. Molowny-Horas
 - I. A. Janssens
 - P. Ciais

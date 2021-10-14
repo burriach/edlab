@@ -31,7 +31,7 @@ authors:
 - Albert Gargallo-Garriga
 - Dominik Sperlich
 - Gerard Farré-Armengol
-- Marcos Fernández-Mart\ńez
+- Marcos Fernández-Martínez
 - Daijun Liu
 - Chao Zhang
 - Ifigenia Urbina

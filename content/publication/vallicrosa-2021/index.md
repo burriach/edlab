@@ -10,7 +10,7 @@ authors:
 - Jordi Sardans
 - Joan Maspons
 - Paolo Zuccarini
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Marijn Bauters
 - Daniel S. Goll
 - Philippe Ciais

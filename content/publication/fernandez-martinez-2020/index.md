@@ -6,7 +6,7 @@ title: The role of climate, foliar stoichiometry and plant diversity on ecosyste
 subtitle: ''
 summary: ''
 authors:
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Jordi Sardans
 - Talie Musavi
 - Mirco Migliavacca

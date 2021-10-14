@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Sílvia Poblador
-- Marcos Fernández-Mart\ńez
+- Marcos Fernández-Martínez
 - Francesc Sabater
 tags: []
 categories: []

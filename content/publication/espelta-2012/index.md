@@ -12,7 +12,7 @@ authors:
 - Pablo Navascués
 - Consuelo Bonfi
 - Guillermo Peguero
-- Marcos Fernández-Mart\ńez
+- Marcos Fernández-Martínez
 - Anselm Rodrigo
 tags: []
 categories: []

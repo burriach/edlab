@@ -5,7 +5,7 @@ title: Nitrate pollution reduces bryophyte diversity in Mediterranean springs
 subtitle: ''
 summary: ''
 authors:
-- M. Fernández-Martínez
+- Marcos Fernández-Martínez
 - J. Corbera
 - X. Domene
 - F. Sayol

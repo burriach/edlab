@@ -12,7 +12,7 @@ authors:
 - Zbigniew Borowski
 - Władysław Kantorowicz
 - Josep M Espelta
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 tags:
 - '"cornell lab of ornithology"'
 - '"ithaca"'

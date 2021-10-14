@@ -9,7 +9,6 @@ authors:
 - Marcos Fernández-Martínez
 - Jordina Belmonte
 - Josep Maria Espelta
-- Josep Maria Espelta
 tags: []
 categories: []
 date: '2012-08-01'

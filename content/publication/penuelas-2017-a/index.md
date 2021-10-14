@@ -9,7 +9,7 @@ authors:
 - P Ciais
 - J.G. Canadell
 - I.A. Janssens
-- M Fernández-Martínez
+- Marcos Fernández-Martínez
 - J Carnicer
 - M Obersteiner
 - Shilong Piao
