@@ -61,7 +61,7 @@ address_format: en-us
 
 # Site features
 
-highlight: false
+highlight: true
 math: false
 diagram: false
 privacy_pack: false
@@ -78,7 +78,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: ''
 plugins_js: []
 avatar:
   gravatar: false

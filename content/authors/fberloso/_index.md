@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ferran Berloso
+title: Ferran Berloso Clarà
 
 # Username (this should match the folder name)
 authors:

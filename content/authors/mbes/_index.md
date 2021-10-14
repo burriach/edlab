@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Miquel Bes
+title: Miquel Bes Garcia
 
 # Username (this should match the folder name)
 authors:
