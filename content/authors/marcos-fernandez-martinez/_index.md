@@ -36,7 +36,7 @@ education:
   courses:
   - course: PhD in Terrestrial Ecology
     institution: Autonomous University of Barcelona - CREAF
-    year: 2012
+    year: 2016
   - course: MSc in Terrestrial Ecology and Conservation of Biodiversity
     institution: Autonomous University of Barcelona
     year: 2011
