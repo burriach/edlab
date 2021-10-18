@@ -7,7 +7,7 @@ authors:
 - oriol-cano-rocabayera
 
 # Role/position/tagline
-role: Postdoctoral researcher - Collaborator of the EDM research group
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:

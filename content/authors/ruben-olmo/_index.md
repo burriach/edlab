@@ -14,7 +14,7 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Edafology Unit - CREAF
+- name: Soil Protection research group - CREAF
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -63,4 +63,4 @@ user_groups:
 - PhD Students
 ---
 
-Ruben Olmo will soon start his PhD supervised by Prof. Xavier Domene from the Unit of Edaphology and Dr. Marcos Fernández Martínez from the EDM.
+Ruben Olmo will soon start his PhD supervised by Prof. Xavier Domene, from the Soil Protection research group, and Dr. Marcos Fernández Martínez from the EDM.
