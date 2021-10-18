@@ -11,28 +11,27 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: CREAF
-  url: www.creaf.cat/
-- name: Universitat de Barcelona (UB)
-  url: https://www.ub.edu/portal/web/dp-beeca/seccio-zoologia-antropologia
+- name: University of Florida
+  url: https://www.ufl.edu
+- name: Goethe University
+  url: https://www.goethe-university-frankfurt.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: Expert on fish ecophysiology and interested on how elemental differences between organisms modify their traits
+bio: Fish ecologist focused on nutrient pollution on aquatic ecosystems and the mechanisms driving its impacts. 
 
 # Interests to show in About widget
 interests:
 - Fish ecology
-- Freshwater experiments
-- Trophic webs
-- Genomics
+- Ecotoxicology
+- Invasive species
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Animal Biology
+  - course: PhD in Biodiversity
     institution: University of Barcelona
     year: 2019
-  - course: MSc in Ecology and Conservation of Biodiversity
+  - course: MSc in Biodiversity
     institution: University of Barcelona
     year: 2012
   - course: BSc in Environmental Sciences
@@ -50,9 +49,15 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7290-4485
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Oriol-Cano-Rocabayera-2
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+# - icon: cv
+#   icon_pack: ai
+#   link: '/static/uploads/files/ocano-cv.pdf'
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -67,4 +72,4 @@ user_groups:
 - Collaborators
 ---
 
-Dr. Oriol Cano-Rocabayera is a postdoctoral researcher at {{< staticref "https://www.ub.edu/portal/web/dp-beeca/seccio-zoologia-antropologia" "newtab" >}}University of Barcelona {{< /staticref >}}) and collaborator of the EDM research group. Oriol works with fishes and freshwater ecosystems trying to understand how population bottlenecks determine the ability of populations to withstand ecosystem pollution and disturbances. He has collaborated with the EDM on the study of bryophyte elemental composition.  
+Post-doctorate researcher supervised by Drs. Jonas Jourdan and Nancy D. Denslow. Oriol's research focuses on the effects of nutrient pollution on aquatic ecosystems and the mechanisms driving its impacts. He is currently studying the drivers of the mosquitofish (*Gambusia holbrooki*) invasive success.  
