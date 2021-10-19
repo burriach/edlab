@@ -13,7 +13,7 @@ role: Postdoctoral researcher
 organizations:
 - name: University of Florida
   url: https://www.ufl.edu
-- name: Goethe University
+- name: Goethe Universität Frankfurt
   url: https://www.goethe-university-frankfurt.de
 
 # Short bio (displayed in user profile at end of posts)
