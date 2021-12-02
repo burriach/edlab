@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruben Olmo
+title: Rubén Olmo
 
 # Username (this should match the folder name)
 authors:
@@ -18,17 +18,27 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student supervised by Prof. Xavier Domene and Dr.  Marcos Fernández-Martínez. Coming soon!
+bio: PhD student supervised by Prof. Xavier Domene and Dr. Marcos Fernández-Martínez.
 
 interests:
+- Marine and terrestrial ecology
 - Soil biodiversity
-- Community ecology
+- Global changes
 
 education:
   courses:
-  - course: PhD in Terrestrial Ecology
+  - course: PhD student in Terrestrial Ecology
     institution: Universitat Autònoma de Barcelona
-    year: Starting soon
+    year: 2021-2025
+  - course: MSc in Science in Marine Resource Management
+    institution: Interdisciplinary Center for Marine Sciences (Instituto Politécnico Nacional, BCS, Mexico)
+    year: 2016-2018
+  - course: MSc in Global Change
+    institution: Menéndez Pelayo International University (coordinated by the Mediterranean Institute of Advanced Studies)
+    year: 2011-2012
+  - course: BSc in Marine Sciences
+    institution: 1st Cycle at Catholic University of Valencia; 2nd Cycle at University of Alicante
+    year: 2006-2011
 
 
 # Social/Academic Networking
@@ -38,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:'
+  link: 'r.olmo@creaf.uab.cat'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -63,4 +73,4 @@ user_groups:
 - PhD Students
 ---
 
-Ruben Olmo will soon start his PhD supervised by Prof. Xavier Domene, from the Soil Protection research group, and Dr. Marcos Fernández Martínez from the EDM.
+Rubén is a PhD student at CREAF, supervised by Prof. Xavier Domene Casadesús and Dr. Marcos Fernández-Martínez. Rubén will characterize the communities of microorganisms in the forest soils of Catalonia to ultimately test the role they play in inorganic carbon sequestration.
