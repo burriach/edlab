@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Susana Silvestre
+title: Susana Silvestre Carbonell
 
 # Username (this should match the folder name)
 authors:
@@ -70,4 +70,4 @@ user_groups:
 - PhD Students
 ---
 
-PhD student supervised by Prof. Josep Peñuelas, and Drs. Romà Ogaya and Marcos Fernández-Martínez. Susana Silvestre studies the effect of long-term experimental drought on Mediterranean forests and shrublands.
+PhD student supervised by Prof. Josep Peñuelas, and Drs. Romà Ogaya and Marcos Fernández-Martínez. Susana Silvestre Carbonell studies the effect of long-term experimental drought on Mediterranean forests and shrublands.
