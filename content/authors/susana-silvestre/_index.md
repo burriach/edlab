@@ -30,6 +30,12 @@ education:
   - course: PhD in Terrestrial Ecology
     institution: Universitat Autònoma de Barcelona
     year: Since 2020
+  - course: MSc in Management and Restoration of Natural Environments
+    institution: University of Alicante
+    year: 2018
+  - course: BSc in Biology
+    institution: University of Alicante
+    year: 2017
 
 
 # Social/Academic Networking
