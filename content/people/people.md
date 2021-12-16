@@ -20,6 +20,8 @@ content:
   - Principal Investigators
   - Researchers
   - PhD Students
+  - MSc Students
+  - BSc Students
   - Collaborators
   - Grad Students
   - Administration
