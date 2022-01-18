@@ -38,7 +38,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*New Phytologist*'
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/nph.17864 https://onlinelibrary.wiley.com/doi/abs/10.1111/nph.17864
-  https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17864 https://onlinelibrary.wiley.com/doi/10.1111/nph.17864
+url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/nph.17864
 doi: 10.1111/nph.17864
 ---
