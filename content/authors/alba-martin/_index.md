@@ -23,7 +23,7 @@ bio: MSc student supervised by Dr. Marcos Fernández-Martínez and Profs. France
 interests:
 - Bryology
 - Functional traits
-- Ecological stoichiometry
+- Biological indicators
 
 education:
   courses:
