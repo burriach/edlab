@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc student
+role: MSc student and technician
 
 # Organizations/Affiliations
 organizations:
@@ -67,4 +67,4 @@ user_groups:
 - MSc Students
 ---
 
-Alba Martín is a MSc student supervised by Dr. Marcos Fernández-Martínez and Profs. Francesc Sabater and Josep Peñuelas. Alba will study whether the elemental composition of bryophytes shift in response to competition using microcosm experiments
+Alba Martín is a MSc student supervised by Dr. Marcos Fernández-Martínez and Profs. Francesc Sabater and Josep Peñuelas. Alba will study how the isotopic signatures of bryophytes change as a response to environmental pollution.

@@ -20,6 +20,7 @@ content:
   - Principal Investigators
   - Researchers
   - PhD Students
+  - Technicians
   - MSc Students
   - BSc Students
   - Collaborators
