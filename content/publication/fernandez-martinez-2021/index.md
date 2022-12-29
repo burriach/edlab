@@ -5,7 +5,7 @@ title: 'From atoms to ecosystems: elementome diversity meets ecosystem functioni
 subtitle: ''
 summary: ''
 authors:
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 tags:
 - '"biogeochemistry"'
 - '"competition"'

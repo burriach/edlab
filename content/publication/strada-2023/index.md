@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Susanna Strada
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Josep Peñuelas
 - M Bauwens
 - T Stavrakou

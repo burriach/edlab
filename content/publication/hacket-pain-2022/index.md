@@ -15,7 +15,7 @@ authors:
 - Thomas Caignard
 - Paulina Celebias
 - Joep Dormolen
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Jose V. Moris
 - Ciprian Palaghianu
 - Mario Pesendorfer

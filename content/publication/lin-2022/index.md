@@ -10,7 +10,7 @@ authors:
 - Weiqi Wang
 - Josep Peñuelas
 - Jordi Sardans
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Chengju Su
 - ' XupingXu'
 - Bhupinder Pal Singh
