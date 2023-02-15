@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Elemental Diversity and Macroecology research group
+  Elemental Diversity and Macroecology research team
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The main aim of the **Elemental Diversity and Macroecology (EDM)** research group is to investigate how the elemental composition of organisms determines how they are and how they function: from individuals to ecosystems and from local to global scales. 
+The main aim of the **Elemental Diversity and Macroecology (EDM)** research team is to investigate how the elemental composition of organisms determines how they are and how they function: from individuals to ecosystems and from local to global scales. 

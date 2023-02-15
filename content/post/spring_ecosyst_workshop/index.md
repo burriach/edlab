@@ -14,16 +14,20 @@ The workshop was organised by Drs. Estela Romero and Marcos Fernández-Martínez
 {{< figure src="featured.jpg" caption="Group picture" numbered="true" >}}
 {{< figure src="working1.jpg" caption="Work in progress" numbered="true" >}}
 {{< figure src="working2.jpg" caption="Work in progress" numbered="true" >}}
-{{< figure src="field1.jpg" caption="Field trip - font de les sureres, Argentona" numbered="true" >}}
-{{< figure src="field2.jpg" caption="Field trip - font del grup, Argentona" numbered="true" >}}
-{{< figure src="field3.jpg" caption="Field trip - font del ferro, Argentona" numbered="true" >}}
-{{< figure src="field4.jpg" caption="Field trip - font de les sureres, Argentona" numbered="true" >}}
+{{< figure src="field1.jpg" caption="Field trip - Font de les sureres, Argentona" numbered="true" >}}
+{{< figure src="field2.jpg" caption="Field trip - Font del Grup, Argentona" numbered="true" >}}
+{{< figure src="field3.jpg" caption="Field trip - Font del Ferro, Argentona" numbered="true" >}}
+{{< figure src="field4.jpg" caption="Field trip - Font de les Sureres, Argentona" numbered="true" >}}
 {{< figure src="field5.jpg" caption="Field trip - Granite, Argentona" numbered="true" >}}
-{{< figure src="field6.jpg" caption="Field trip - font del camí, Argentona" numbered="true" >}}
-{{< figure src="field7.jpg" caption="Field trip - font de l'aranyal', Olzinelles" numbered="true" >}}
-{{< figure src="field8.jpg" caption="Field trip - Group picture, font de l'aranyal, Olzinelles" numbered="true" >}}
+{{< figure src="field6.jpg" caption="Field trip - Font del camí, Argentona" numbered="true" >}}
+{{< figure src="field7.jpg" caption="Field trip - Font de l'Aranyal', Olzinelles" numbered="true" >}}
+{{< figure src="field8.jpg" caption="Field trip - Group picture, Font de l'Aranyal, Olzinelles" numbered="true" >}}
 {{< figure src="field9.jpg" caption="Field trip - Font Picant, Argentona" numbered="true" >}}
-
+{{< figure src="field10.jpg" caption="Field trip - Font Picant, Argentona" numbered="true" >}}
+{{< figure src="field11.jpg" caption="Field trip - Font de l'Esquirol's water mine, Argentona" numbered="true" >}}
+{{< figure src="field12.jpg" caption="Field trip - Font del Grup, Argentona" numbered="true" >}}
+{{< figure src="field13.jpg" caption="Field trip - Font del Ferro, Argentona" numbered="true" >}}
+{{< figure src="field14.jpg" caption="Field trip - Group picture, Font de l'Aranyal, Olzinelles" numbered="true" >}}
 
 <!--more-->
 **Long live, spring ecosystems!**
