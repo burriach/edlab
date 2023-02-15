@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc student and technician
+role: Lab and field technician
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- MSc Students
+- Technicians
+- Alumni
+
 ---
 
-Alba Martín is a MSc student supervised by Dr. Marcos Fernández-Martínez and Profs. Francesc Sabater and Josep Peñuelas. Alba will study how the isotopic signatures of bryophytes change as a response to environmental pollution.
+Alba Martín was a MSc student supervised by Dr. Marcos Fernández-Martínez and Profs. Francesc Sabater and Josep Peñuelas, studying how the isotopic signatures of bryophytes change as a response to environmental pollution. Alba worked as a technician for the ES-BEF project and will rejoin the team in May 2023 as technician for the ERC-StG STOIKOS.

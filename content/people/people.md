@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Elemental Diversity and Macroecology 
-subtitle: Research Group (EDM)
+subtitle: Research Team (EDM)
 
 content:
   # Choose which groups/teams of users to display.

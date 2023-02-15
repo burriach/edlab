@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher - PI of the EDM research group
+role: Researcher - PI of the EDM research team
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -90,4 +90,4 @@ user_groups:
 - Group Leader
 ---
 
-Dr. Marcos Fernández-Martínez is a postdoctoral researcher at the Ecological and Forestry Applications Research Centre ({{< staticref "http://creaf.cat" "newtab" >}}CREAF{{< /staticref >}}) and collaborator of the {{< staticref "http://globalecology.creaf.cat/" "newtab" >}}Global Ecology Unit{{< /staticref >}} and the {{< staticref "https://www.ub.edu/portal/web/dp-beeca/seccio-ecologia" "newtab" >}}Section of Ecology{{< /staticref >}} of the University of Barcelona. He is also a volunteer of the natural history group {{< staticref "http://www.dslc-ichn.cat/" "newtab" >}}Delegació de la Serralada Litoral Central{{< /staticref >}}, from the {{< staticref "https://blogs.iec.cat/ichn/" "newtab" >}}Institució Catalana d'Història Natural{{< /staticref >}}. His multidisciplinary research is focused on macroecology, global biogeochemical cycles and global change, the role of nutrients, elemental stoichiometry and biodiversity in ecosystem functioning, non-linear dynamics of ecosystem functioning and forest and bryophyte ecology. With the latter, Dr. Fernández-Martínez tries to bring together natural history and cutting-edge research. 
+Dr. Marcos Fernández-Martínez is a researcher at the Ecological and Forestry Applications Research Centre ({{< staticref "http://creaf.cat" "newtab" >}}CREAF{{< /staticref >}}) and collaborator of the {{< staticref "http://globalecology.creaf.cat/" "newtab" >}}Global Ecology Unit{{< /staticref >}} and the {{< staticref "https://www.ub.edu/portal/web/dp-beeca/seccio-ecologia" "newtab" >}}Section of Ecology{{< /staticref >}} of the University of Barcelona. He is also a volunteer of the natural history group {{< staticref "http://www.dslc-ichn.cat/" "newtab" >}}Delegació de la Serralada Litoral Central{{< /staticref >}}, from the {{< staticref "https://blogs.iec.cat/ichn/" "newtab" >}}Institució Catalana d'Història Natural{{< /staticref >}}. His multidisciplinary research is focused on macroecology, global biogeochemical cycles and global change, the role of nutrients, elemental stoichiometry and biodiversity in ecosystem functioning, non-linear dynamics of ecosystem functioning and forest and bryophyte ecology. With the latter, Dr. Fernández-Martínez tries to bring together natural history and cutting-edge research. 
