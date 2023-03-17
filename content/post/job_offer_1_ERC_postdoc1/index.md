@@ -5,7 +5,7 @@ image:
   focal_point: "bottom"
 ---
 
-**OPEN POSITION: POSTDOCTORAL RESEARCHER FOR STOIKOS**
+**OPEN POSITION: POSTDOCTORAL RESEARCHER FOR STOIKOS (apply from 17/03/2023 to 9/04/2023)**
 <!--more-->
 We are looking for a postdoctoral researcher for the STOIKOS project (Elemental ecology: towards an element-based functional ecology, reference: ERC-2022-STG 101076740-STOIKOS) funded by the European Research Council.
 
@@ -38,7 +38,7 @@ A full-time contract is offered, for 24 months, starting on May 1st, 2023 (start
 
 
 **SELECTION PROCESS AND CRITERIA**
-1.	***This job position will open during the next few days.*** To apply to this job offer, please, visit CREAF's vacancies hub at **{{< staticref "https://www.creaf.cat/vacancies-hub" "newtab" >}}https://www.creaf.cat/vacancies-hub{{< /staticref >}}**. Applicants will have to submit their CV in English, a cover letter (maximum 500 words, also in English) and the questionnaire attached to the offer (filled). ***Please, follow the instructions in CREAF's vacancies hub for this offer. We will not accept candidates applying for this job offer that do not  follow the instructions in CREAF's vacancies hub.***  
+1.	***OPEN FROM 17/03/2023 TO 9/04/2023.*** To apply to this job offer, please, visit CREAF's vacancies hub at **{{< staticref "https://www.creaf.cat/ca/work-with-us/postdoctoral-researcher-position-erc-stg-project" "newtab" >}}https://www.creaf.cat/ca/work-with-us/postdoctoral-researcher-position-erc-stg-project{{< /staticref >}}**. Applicants will have to submit their CV in English, a cover letter (maximum 500 words, also in English) and the questionnaire attached to the offer (filled). ***Please, follow the instructions in CREAF's vacancies hub for this offer. We will not accept candidates applying for this job offer that do not  follow the instructions in CREAF's vacancies hub.***  
 2.	**Pre-selection:** determination of compliance with the minimum requirements of the offer.
 3.	**Selection:** assessment of the preselected candidates by scoring based on objective criteria. The candidates presenting the highest scores will be invited to a physical or remote interview (depending on the residence of the candidate). 
 4.	**Final decision:** in case of finding a suitable candidate, the election will be formally communicated to them, and the name of the chosen candidate will be published on CREAF's vacancies hub webpage.
