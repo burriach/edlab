@@ -52,7 +52,7 @@ social:
   link: https://twitter.com/PuYan17s
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'yanpu681@gmail.com'
 # - icon: cv
 #   icon_pack: ai
 #   link: '/static/uploads/files/ocano-cv.pdf'

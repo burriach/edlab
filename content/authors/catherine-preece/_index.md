@@ -1,41 +1,36 @@
 ---
 # Display name
-title: Guille Peguero
+title: Catherine Preece
 
 # Username (this should match the folder name)
 authors:
-- guille-peguero
+- catherine-preece
 
 # Role/position/tagline
-role: Tenure-track lecturer
+role: Senior researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Universitat de Barcelona
-  url: https://www.ub.edu/portal/web/dp-beeca/seccio-ecologia
-- name: CREAF
-  url: https://www.creaf.cat
+- name: Institut de Recerca i Tecnologia Agroalimentàries
+  url: https://www.irta.cat/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ecologist focused on artrhopod diversity and their role on ecosystem procesess
+bio: Plant and soil ecologist focused on the role of plant exudates on crop drought resistance and carbon sequestration
 
 # Interests to show in About widget
 interests:
-- Artrhopods
+- Domestication of crop progenitors
 - Nutrients
-- Zoogeochemistry
+- Bryophytes
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Ecology
-    institution: Autonomous University of Barcelona
-    year: 2012
-  - course: MSc in Biodiversity
-    institution: Autonomous University of Barcelona
-    year: 2008
+    institution: University of Sheffield
+    year: 2011
   - course: BSc in Biology
-    institution: Autonomous University of Barcelona
+    institution: University of Birmingham
     year: 2007
 
 # Social/Academic Networking
@@ -45,19 +40,19 @@ education:
 social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.es/citations?hl=es&user=8cV5NcIAAAAJ
+  link: https://scholar.google.es/citations?user=WOQ_iC0AAAAJ
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-6464-1486
+  link: https://orcid.org/0000-0001-6584-3541
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Guille-Peguero
+  link: https://www.researchgate.net/profile/Catherine-Preece
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Guille_Peguero
+  link: https://twitter.com/CathePreece
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'catherine.preece@irta.cat'
 # - icon: cv
 #   icon_pack: ai
 #   link: '/static/uploads/files/ocano-cv.pdf'
@@ -75,4 +70,4 @@ user_groups:
 - Collaborators
 ---
 
-Tenure-track lecturer at Universitat de Barcelona. He is collaborating with the EDM in the framework of the ERC-StG STOIKOS.
+I am a plant and soil ecologist and my current work focuses on the impact of drought on plant-soil interactions. Recently, I am particularly interested in differences in root and rhizosphere traits between crops and their wild relatives. I also study the feedbacks between plant and soil function and diversity, and the importance of soil communities for ecosystem stability. She is collaborating with the EDM in the framework of the ERC-StG STOIKOS to study the differences in elemental composition of crop wild relatives and modern crops.
