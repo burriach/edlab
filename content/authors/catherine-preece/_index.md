@@ -7,7 +7,7 @@ authors:
 - catherine-preece
 
 # Role/position/tagline
-role: Senior researcher
+role: Permanent researcher at IRTA
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,14 +19,15 @@ bio: Plant and soil ecologist focused on the role of plant exudates on crop drou
 
 # Interests to show in About widget
 interests:
+- Soil organic carbon
 - Domestication of crop progenitors
-- Nutrients
+- Root exudates
 - Bryophytes
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Ecology
+  - course: PhD in plant ecology and global change
     institution: University of Sheffield
     year: 2011
   - course: BSc in Biology
@@ -70,4 +71,4 @@ user_groups:
 - Collaborators
 ---
 
-I am a plant and soil ecologist and my current work focuses on the impact of drought on plant-soil interactions. Recently, I am particularly interested in differences in root and rhizosphere traits between crops and their wild relatives. I also study the feedbacks between plant and soil function and diversity, and the importance of soil communities for ecosystem stability. She is collaborating with the EDM in the framework of the ERC-StG STOIKOS to study the differences in elemental composition of crop wild relatives and modern crops.
+Her research focuses on how to increase carbon sequestration in agricultural soils. She is a specialist in plant-soil interactions, particularly in response to global change, and the characteristics of roots in wild relatives of crops. She is collaborating with the EDM in the framework of the ERC-StG STOIKOS to study the differences in elemental composition of crop wild relatives and modern crops.

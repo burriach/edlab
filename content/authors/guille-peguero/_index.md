@@ -21,7 +21,7 @@ bio: Ecologist focused on artrhopod diversity and their role on ecosystem proces
 
 # Interests to show in About widget
 interests:
-- Artrhopods
+- Arthropods
 - Nutrients
 - Zoogeochemistry
 
