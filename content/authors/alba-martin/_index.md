@@ -14,7 +14,7 @@ role: Lab and field technician
 
 # Organizations/Affiliations
 organizations:
-- name: Elemental Diversity and Macroecology research group
+- name: Elemental Diversity and Macroecology research team
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,4 +69,4 @@ user_groups:
 
 ---
 
-Alba Martín was a MSc student supervised by Dr. Marcos Fernández-Martínez and Profs. Francesc Sabater and Josep Peñuelas, studying how the isotopic signatures of bryophytes change as a response to environmental pollution. Alba worked as a technician for the ES-BEF project and will rejoin the team in May 2023 as technician for the ERC-StG STOIKOS.
+Alba Martín was a MSc student supervised by Dr. Marcos Fernández-Martínez and Profs. Francesc Sabater and Josep Peñuelas, studying how the isotopic signatures of bryophytes change as a response to environmental pollution. Alba worked as a technician for the ES-BEF project and has now rejoined the team in May 2023 as technician for the ERC-StG STOIKOS project.
