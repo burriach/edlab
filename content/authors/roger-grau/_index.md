@@ -7,7 +7,7 @@ authors:
 - roger-grau-andres
 
 # Role/position
-role: Researcher
+role: Researcher and project manager
 
 # Organizations/Affiliations
 organizations:
