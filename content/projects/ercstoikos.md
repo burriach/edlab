@@ -23,6 +23,6 @@ Life on Earth, as we have known it for millennia, is at stake. Human activities 
 *{{< staticref "https://ub.edu" "newtab" >}}Universitat de Barcelona{{< /staticref >}}*<br />
 **Start date:** *1 May 2023*<br />
 **End date:** *30 April 2028*<br />
-**Webpage:** *Coming soon*<br />
-
+**Webpage:** *{{< staticref "https://stoikos.creaf.cat/" "newtab" >}}https://stoikos.creaf.cat/{{< /staticref >}}*<br />
+**Twitter:** *{{< staticref "https://twitter.com/STOIKOS_ERC" "newtab" >}}@STOIKOS_ERC{{< /staticref >}}*<br />
 

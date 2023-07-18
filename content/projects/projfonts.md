@@ -3,7 +3,7 @@ title: "Projecte Fonts"
 date: ""
 authors:
 - Marcos Fernández-Martínez
-weight: 2
+weight: 3
 draft: false
 ---
 
