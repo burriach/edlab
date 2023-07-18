@@ -21,4 +21,9 @@ The elemental composition of matter determines its physical and chemical propert
 *{{< staticref "https://creaf.cat" "newtab" >}}CREAF{{< /staticref >}}*<br />
 **Start date:** *1 January 2024*<br />
 **End date:** *31 December 2027*<br />
-
+**Working team:**<br />
+*{{< staticref "https://www.ucm.es/bcv//joan-garcia-porta" "newtab" >}}Dr. Garcia-Porta{{< /staticref >}}*<br />
+*{{< staticref "https://www.creaf.cat/staff/alba-anadon-rosell" "newtab" >}}Dr. Anadon-Rosell{{< /staticref >}}*<br />
+*{{< staticref "https://scholar.google.com/citations?user=MqX3SlYAAAAJ&hl=en" "newtab" >}}Dr. Liu{{< /staticref >}}*<br />
+*{{< staticref "https://elemdiv.netlify.app/author/oriol-cano-rocabayera/" "newtab" >}}Dr. Cano-Rocabayera{{< /staticref >}}*<br />
+*{{< staticref "https://stri.si.edu/scientist/s-joseph-wright" "newtab" >}}Prof. Wright{{< /staticref >}}*<br />
