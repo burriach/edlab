@@ -1,11 +1,11 @@
 ---
-title: The EDM team and STOIKOS are hiring PhD students
+title: Job offers! PhD students in Barcelona (CREAF)
 date: 2023-07-18
 image:
   focal_point: "bottom"
 ---
 
-**OPEN POSITIONS: PREDOCTORAL RESEARCHERS (PhD STUDENTS) FOR STOIKOS (apply until 8/09/2023)**<br />
+**OPEN POSITIONS: PREDOCTORAL RESEARCHERS (PhD STUDENTS) FOR STOIKOS (apply until 30/09/2023)**<br />
 <!--more-->
 The EDM team is looking for PhD students for the *{{< staticref "https://stoikos.creaf.cat/" "newtab" >}}STOIKOS{{< /staticref >}}* project (Elemental ecology: towards an element-based functional ecology, reference: ERC-2022-STG 101076740-STOIKOS) funded by the European Research Council.<br />
 
