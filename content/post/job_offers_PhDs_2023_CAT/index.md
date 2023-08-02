@@ -1,6 +1,6 @@
 ---
 title: Ofertes de doctorat a Barcelona (CREAF)
-date: 2023-07-19
+date: 2023-08-01
 image:
   focal_point: "bottom"
 ---
@@ -30,7 +30,7 @@ Aquest projecte tindrà com a objectiu investigar com la integració del concept
 
 4. *Modelització dels elementomes i els efectes de la diversitat elemental en el funcionament dels ecosistemes, la diferenciació de nínxols i l'evolució*<br />
 Aquest projecte construirà els nostres models teòrics i utilitzarà models de projecció integral basats en dades d'inventaris forestals per investigar les propietats a nivell d'ecosistema derivades de la interacció d'organismes amb diferents elementomes. Els nostres models teòrics s'utilitzaran per comprovar i) l'efecte de la biodiversitat en el funcionament dels ecosistemes a diferents nivells de diversitat elemental, ii) la competència intra i interespecífica i els canvis en els elementomes i iii) com canvia la complexitat funcional temporal a funció de (i) i (ii). El projecte de doctorat se centrarà principalment en l'ecologia teòrica, però caldrà adquirir dades experimentals per donar suport als models teòrics.<br />
-
+<br />
 5. *Investigant els factors de desestabilització dels ecosistemes naturals*<br />
 El canvi global està sotmetent tot tipus d'ecosistemes a un estrès cada vegada més gran. Hi ha proves fefaents que l'augment de l'estrès a causa del canvi climàtic, l'alteració dels cicles de nutrients i la pèrdua de biodiversitat reduiran la capacitat dels ecosistemes per suportar pertorbacions, augmentant-ne la variabilitat i reduint-ne la resiliència. Tot i això, segueix sense saber-se si els ecosistemes s'estan tornant més inestables a causa del canvi global i quins són els factors que impulsen la seva variabilitat i resiliència. Aquest projecte de doctorat consistirà en l’anàlisi de conjunts de dades locals, regionals i globals, basats en llocs de seguiment a llarg termini, experiments i teledetecció i altres conjunts de dades globals reticulars, per tal de respondre a la pregunta de si el canvi global està desestabilitzant els ecosistemes terrestres i investigar els impulsors de la variabilitat i la resiliència dels ecosistemes. A l'EDM, s'han realitzat anàlisis similars en aquest article publicat a *{{< staticref "https://www.nature.com/articles/s41586-023-05725-1" "newtab" >}}Nature{{< /staticref >}}*.  <br />
 <br />
@@ -46,7 +46,12 @@ El canvi global està sotmetent tot tipus d'ecosistemes a un estrès cada vegada
 -	Llicenciatura i Màster (o equivalent) a Ciències Ambientals, Biologia, Biologia Ambiental, Matemàtiques, Física o similar.<br />
 -	Complir els requisits per ser acceptats en un programa de formació de doctorat a la Universitat Autònoma de Barcelona o la Universitat de Barcelona.<br />
 -	Experiència i interès en investigació ecològica (per exemple, tesis de BSc o MSc).<br />
--	Nota mitjana de BSc i MSc superior a 8 (sobre 10).<br />
+-	Nota mitjana de BSc i MSc superior a 8 (sobre 10).En cas que hagueu cursat els vostres estudis fora de l'estat Espanyol, si us plau, calculeu la vostra nota mitjana (BSc + MSc) seguint la informació dels següents enllaços: <br />
+*{{< staticref "https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en" "newtab" >}}https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en{{< /staticref >}}* <br />
+*{{< staticref "https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/" "newtab" >}}https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/{{< /staticref >}}* <br />
+See also these two other links with additional guidance:<br />
+*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf{{< /staticref >}}* <br />
+*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf{{< /staticref >}}* <br />
 -	Disposició per col·laborar en projectes d’altres membres de l’equip.<br />
 -	Excel·lents habilitats de comunicació oral i escrita.<br />
 -	Coneixements avançats d'estadística i programació a R.<br />
