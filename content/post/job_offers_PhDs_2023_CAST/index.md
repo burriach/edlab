@@ -47,12 +47,6 @@ El cambio global está sometiendo a todo tipo de ecosistemas a un estrés cada v
 -	Licenciatura y Máster (o equivalente) en Ciencias Ambientales, Biología, Biología Ambiental, Matemáticas, Física o similar.<br />
 - Cumplir los requisitos para ser aceptado en un programa de formación de doctorado en la *{{< staticref "https://www.uab.cat/en/phds/terrestrial-ecology" "newtab" >}}Universitat Autònoma de Barcelona{{< /staticref >}}* o la *{{< staticref "https://web.ub.edu/en/web/estudis/w/phd-hdk0h" "newtab" >}}Universitat de Barcelona{{< /staticref >}}*. <br />
 -	Experiencia e interés en investigación ecológica (por ejemplo, tesis de BSc o MSc).<br />
--	Nota media de BSc y MSc superior a 8 (sobre 10). En caso de haber cursado sus estudios fuera de territorio Español, por favor, calculad vuestras notas de BSc + MSc siguiendo la información de los siguientes enlaces: <br />
-*{{< staticref "https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en" "newtab" >}}https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en{{< /staticref >}}* <br />
-*{{< staticref "https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/" "newtab" >}}https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/{{< /staticref >}}* <br />
-See also these two other links with additional guidance:<br />
-*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf{{< /staticref >}}* <br />
-*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf{{< /staticref >}}* <br />
 - Disposición para colaborar en proyectos de otros miembros del equipo.<br />
 -	Excelentes habilidades de comunicación oral y escrita.<br />
 -	Conocimientos avanzados de estadística y programación en R.<br />
@@ -62,6 +56,12 @@ See also these two other links with additional guidance:<br />
 **CONDICIONES VALORABLES**<br />
 -	Participación en publicaciones científicas (se valorará especialmente la condición de primer autor).<br />
 -	Capacidad para trabajar en equipo y de forma independiente.<br />
+-	Nota media de BSc y MSc superior a 8 (sobre 10). En caso de haber cursado sus estudios fuera de territorio Español, por favor, calculad vuestras notas de BSc + MSc siguiendo la información de los siguientes enlaces: <br />
+*{{< staticref "https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en" "newtab" >}}https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en{{< /staticref >}}* <br />
+*{{< staticref "https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/" "newtab" >}}https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/{{< /staticref >}}* <br />
+See also these two other links with additional guidance:<br />
+*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf{{< /staticref >}}* <br />
+*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf{{< /staticref >}}* <br />
 -	Se valorará positivamente la posesión de certificado de discapacidad.<br />
 -	Permiso de conducir.<br />
 -	Disponibilidad para viajar por trabajo de campo.<br />
