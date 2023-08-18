@@ -46,12 +46,6 @@ El canvi global està sotmetent tot tipus d'ecosistemes a un estrès cada vegada
 -	Llicenciatura i Màster (o equivalent) a Ciències Ambientals, Biologia, Biologia Ambiental, Matemàtiques, Física o similar.<br />
 -	Complir els requisits per ser acceptats en un programa de formació de doctorat a la Universitat Autònoma de Barcelona o la Universitat de Barcelona.<br />
 -	Experiència i interès en investigació ecològica (per exemple, tesis de BSc o MSc).<br />
--	Nota mitjana de BSc i MSc superior a 8 (sobre 10).En cas que hagueu cursat els vostres estudis fora de l'estat Espanyol, si us plau, calculeu la vostra nota mitjana (BSc + MSc) seguint la informació dels següents enllaços: <br />
-*{{< staticref "https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en" "newtab" >}}https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en{{< /staticref >}}* <br />
-*{{< staticref "https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/" "newtab" >}}https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/{{< /staticref >}}* <br />
-See also these two other links with additional guidance:<br />
-*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf{{< /staticref >}}* <br />
-*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf{{< /staticref >}}* <br />
 -	Disposició per col·laborar en projectes d’altres membres de l’equip.<br />
 -	Excel·lents habilitats de comunicació oral i escrita.<br />
 -	Coneixements avançats d'estadística i programació a R.<br />
@@ -61,6 +55,12 @@ See also these two other links with additional guidance:<br />
 **CONDICIONS VALORABLES**<br />
 -	Participació en publicacions científiques (es valorarà especialment la condició de primer autor).<br />
 -	Capacitat per treballar en equip i de manera independent.<br />
+-	Nota mitjana de BSc i MSc superior a 8 (sobre 10).En cas que hagueu cursat els vostres estudis fora de l'estat Espanyol, si us plau, calculeu la vostra nota mitjana (BSc + MSc) seguint la informació dels següents enllaços: <br />
+*{{< staticref "https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en" "newtab" >}}https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en{{< /staticref >}}* <br />
+*{{< staticref "https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/" "newtab" >}}https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/{{< /staticref >}}* <br />
+See also these two other links with additional guidance:<br />
+*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf{{< /staticref >}}* <br />
+*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf{{< /staticref >}}* <br />
 -	Es valorarà positivament la possessió de certificat de discapacitat.<br />
 -	Permís de conduir. <br />
 -	Disponibilitat per viatjar per treball de camp. <br />

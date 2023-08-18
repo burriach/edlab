@@ -46,12 +46,6 @@ Global change is putting all types of ecosystems under increased stress. There i
 -	BSc and MSc (or equivalent) in Environmental Sciences, Biology, Environmental Biology, Mathematics, Physics or similar.<br />
 - Meet the requirements to be accepted for a PhD training program at the *{{< staticref "https://www.uab.cat/en/phds/terrestrial-ecology" "newtab" >}}Universitat Autònoma de Barcelona{{< /staticref >}}* or at the *{{< staticref "https://web.ub.edu/en/web/estudis/w/phd-hdk0h" "newtab" >}}Universitat de Barcelona{{< /staticref >}}*. <br />
 -	Experience and interest in ecological research (e.g., BSc or MSc theses).<br />
-- Mean BSc and MSc score above *8 (out of 10)*. If you are a non-Spanish candidate, please, calculate your equivalent grades following the information in these webpages (some only in Spanish, sorry): To do so, please, visit these webpages: <br />
-*{{< staticref "https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en" "newtab" >}}https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en{{< /staticref >}}* <br />
-*{{< staticref "https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/" "newtab" >}}https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/{{< /staticref >}}* <br />
-See also these two other links with additional guidance:<br />
-*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf{{< /staticref >}}* <br />
-*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf{{< /staticref >}}* <br />
 - Willingness to collaborate in projects from other team members.<br />
 -	Excellent oral and writing communication skills.<br />
 -	Advanced knowledge of statistics and programming in R.<br />
@@ -61,6 +55,12 @@ See also these two other links with additional guidance:<br />
 **ASSESSABLE CONDITIONS**<br />
 -	Participation in scientific publications (first-author will be strongly valued).<br />
 -	Ability to work as a team and independently.<br />
+- Mean BSc and MSc score above *8 (out of 10)*. If you are a non-Spanish candidate, please, calculate your equivalent grades following the information in these webpages (some only in Spanish, sorry): To do so, please, visit these webpages: <br />
+*{{< staticref "https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en" "newtab" >}}https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/en{{< /staticref >}}* <br />
+*{{< staticref "https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/" "newtab" >}}https://www.universidades.gob.es/equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros/{{< /staticref >}}* <br />
+See also these two other links with additional guidance:<br />
+*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2023/01/Guia_informativa_Declaracion_Equivalencia_Nota_Media_2022.pdf{{< /staticref >}}* <br />
+*{{< staticref "https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf" "newtab" >}}https://www.universidades.gob.es/wp-content/uploads/2022/12/ANEXO_II_INSTRUCCIONES.pdf{{< /staticref >}}* <br />
 -	The possession of a certificate of disability will be positively taken into account. <br />
 -	Driving license.<br />
 -	Availability to travel for field work. <br />
