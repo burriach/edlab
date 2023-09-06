@@ -6,12 +6,23 @@ image:
 ---
 
 **OPEN POSITIONS: PREDOCTORAL RESEARCHERS (PhD STUDENTS) FOR STOIKOS (apply until 30/09/2023)**<br />
+
+
+**SEE ALL DETAILS HERE**: *{{< staticref "https://www.creaf.cat/work-with-us/predoctoral-researcher-stoikos-project-erc-starting-grant" "newtab" >}}https://www.creaf.cat/work-with-us/predoctoral-researcher-stoikos-project-erc-starting-grant{{< /staticref>}}*
+
+
 <!--more-->
 The EDM team is looking for PhD students for the *{{< staticref "https://stoikos.creaf.cat/" "newtab" >}}STOIKOS{{< /staticref >}}* project (Elemental ecology: towards an element-based functional ecology, reference: ERC-2022-STG 101076740-STOIKOS) funded by the European Research Council.<br />
 
 The project aims to investigate whether the elemental composition of organisms relates to ecosystem functioning, and whether ecosystem elemental diversity predicts ecosystem functioning better than traditional metrics of diversity. The candidate will join a multidisciplinary team, working with observations, experiments and theoretical modelling to answer our scientific questions. The candidate will benefit from the training and career development opportunities offered through our research team and CREAF, exposure to international research and interaction with other national and international collaborators.<br />
 
-Full-time contracts are offered for 3 years (with a potential extension of one additional year), starting during October - November, 2023. The gross salary offered is ~€17.5k€ annually.<br />
+This contract is envisaged to start in October/November 2023, but by accepting this offer it will be understood that the candidates agree to request their own financing through predoctoral grants such as FI, FPU or LaCaixa..., and during the period of this contract, which will last for at least 3 years and with a possible 4th year financed in the event that this period is not covered by the predoctoral grant obtained. The salary offered (gross) is stablished by the RD EPIF (Real Decreto 103/2019, de 1 de marzo, por el que se aprueba el Estatuto del personal investigador predoctoral en formación):<br />
+
+- 1st and 2nd years (12 months): 56% of €31,520.86* = €17,651.68 each year.<br />
+- 3rd year (12 months): 60% of €31,520.86* = €18,912.51.<br />
+- 4rt year (12 month): 75% of €31,520.86* = €23,640.65.<br />
+
+*Salary from Group 1 (M3) of the salary table from the Convenio colectivo único para el personal laboral de la Administración General del Estado.<br />
 
 **CURRENTLY AVAILABLE RESEARCH LINES (POSITIONS)**<br />
 All research lines include some tasks that are already defined, and some that are subject to change in accordance with the expertise/interests of the candidate. <br />
@@ -68,10 +79,10 @@ See also these two other links with additional guidance:<br />
 
 
 **SELECTION PROCESS**<br />
-1.	Applicants will have to submit: *1)* their CV in English, *2)* a cover letter (maximum 500 words, also in English, *specifying which line(s) of research the candidate is interested in*) and, *3)* two recommendation letters from professors or researchers to **m.fernandez@creaf.uab.cat**.  <br />
-2.	**Pre-selection:** determination of compliance with the minimum requirements of the offer.<br />
-3.	**Selection:** assessment of the preselected candidates by scoring based on objective criteria. The candidates presenting the highest scores will be invited to a physical or remote *interview* and a *test of general skills and knowledge about the chosen line of research* (depending on the residence of the candidate). <br />
-4.	**Final decision:** in case of finding a suitable candidate, the election will be formally communicated to them.<br />
+1. Applicants will have to submit: 1) their **CV in English**, 2) a **cover letter** (maximum 500 words, also in English, specifying which line(s) of research the candidate is interested in), 3) **two recommendation letters** from professors or researchers and, 4) the questionnaire attached to the offer (filled), to **laboral@creaf.uab.cat** until September 30th, 2023, indicating the reference code of the offer. <br />
+2. **Pre-selection**: determination of compliance with the minimum requirements of the offer.<br />
+3. **Selection**: assessment of the preselected candidates by scoring based on objective criteria. The candidates presenting the highest scores will be invited to a physical or remote interview and a test of general skills and knowledge about the chosen line of research (depending on the residence of the candidate).<br />
+4. **Final decision**: in case of finding the suitable person, the election will be formally communicated to him/her, and the identification of the chosen person will be published on CREAF job openings section.<br />
 5.	For any enquiries, please, contact Dr. Fernández-Martínez: **m.fernandez@creaf.uab.cat**.<br />
 
 

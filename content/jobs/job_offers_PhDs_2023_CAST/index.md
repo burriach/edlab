@@ -7,7 +7,7 @@ image:
 
 **OFERTA de DOCTORADO: INVESTIGADORES PREDOCTORALES PARA STOIKOS (abierta hasta el 30/09/2023)**<br />
 
-**TODOS LOS DETALLES AQUÍ**: *{{< staticref "https://www.creaf.cat/ca/borsa-de-treball/estudiants-de-doctorat-projecte-erc-starting-grant-stoikos" "newtab" >}}https://www.creaf.cat/ca/borsa-de-treball/estudiants-de-doctorat-projecte-erc-starting-grant-stoikos{{< /staticref >}}*
+**TODOS LOS DETALLES AQUÍ**: *{{< staticref "https://www.creaf.cat/es/bolsa-de-trabajo/estudiantes-de-doctorado-para-el-proyecto-erc-starting-grant-stoikos" "newtab" >}}https://www.creaf.cat/es/bolsa-de-trabajo/estudiantes-de-doctorado-para-el-proyecto-erc-starting-grant-stoikos{{< /staticref >}}*
 
 <!--more-->
 El equipo de investigación sobre Diversidad Elemental y Macroecología (EDM) busca estudiantes de doctorado para el proyecto *{{< staticref "https://stoikos.creaf.cat/" "newtab" >}}STOIKOS{{< /staticref >}}* (Elemental ecology: towards an element-based functional ecology, reference: ERC-2022-STG 101076740-STOIKOS) financiado por la European Research Council.<br />

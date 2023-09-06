@@ -6,12 +6,23 @@ image:
 ---
 
 **OFERTA de DOCTORAT: INVESTIGADORS PREDOCTORALS PEL PROJECTE STOIKOS (Data límit: 30/09/2023)**<br />
+
+
+**VEGEU TOTS ELS DETALLS AQUÍ**: *{{< staticref "https://www.creaf.cat/ca/borsa-de-treball/estudiants-de-doctorat-projecte-erc-starting-grant-stoikos" "newtab" >}}https://www.creaf.cat/ca/borsa-de-treball/estudiants-de-doctorat-projecte-erc-starting-grant-stoikos{{< /staticref >}}*
+
+
+<br />
 <!--more-->
 L'equip de recerca sobre Diversitat Elemental i Macroecologia (EDM) cerca estudiants de doctorat pel projecte *{{< staticref "https://stoikos.creaf.cat/" "newtab" >}}STOIKOS{{< /staticref >}}* (Elemental ecology: towards an element-based functional ecology, reference: ERC-2022-STG 101076740-STOIKOS) finançat per la European Research Council.<br />
 
 El projecte pretén investigar si la composició elemental dels organismes està relacionada amb el funcionament dels ecosistemes, i si la diversitat elemental dels ecosistemes prediu el funcionament dels ecosistemes millor que les mètriques tradicionals de diversitat. Els candidats formaran part d'un equip multidisciplinari que treballarà amb observacions, experiments i models teòrics per respondre les nostres preguntes científiques. Els candidats es beneficiaran de les oportunitats de formació i desenvolupament professional que ofereixen el nostre equip de recerca i el CREAF, l'exposició a la investigació internacional i la interacció amb altres col·laboradors nacionals i internacionals.<br />
 
-S'ofereix contracte a temps complet per 3 anys (amb possibilitat de pròrroga d'un any més), a partir d'octubre-novembre del 2023 com a molt aviat. El salari brut ofert és de ~17,5k€ anuals.<br />
+Aquest contracte està previst que comenci a l'octubre/novembre del 2023, però al acceptar aquesta oferta s'entendrà que les persones candidates estan d'acord en demanar el seu propi finançament a través de ajudes predoctorals com FI, FPU, LaCaixa.., i durant el període d'aquest contracte es prolongarà durant 3 anys com a mínim amb un possible 4t any finançat en el cas que no estigui cobert aquest període per l’ajuda. El salari ofert (brut) està establert pel RD EPIF (Reial decret 103/2019, d'1 de març, pel qual s'aprova l'Estatut del personal investigador predoctoral en formació):<br />
+- 1r i 2n any (12 mesos): 56% de 31.520,86€* = 17.651,68€ cada any.<br />
+- 3r any (12 mesos): 60% de 31.520,86€* = 18.912,51€.<br />
+- 4rt any (12 mesos): 75% de 31.520,86€* = 23.640,65€.<br />
+<br />
+*Salari del Grup 1 (M3) de la taula salarial del Conveni col·lectiu únic per al personal laboral de l'Administració General de l'Estat.<br />
 
 **LÍNIES D'INVESTIGACIÓ DISPONIBLES (VACANTS)**<br />
 Totes les línies de recerca inclouen algunes tasques que ja estan definides i d'altres que estan subjectes a canvis en funció de l'experiència/interès del candidat.<br />
@@ -68,10 +79,10 @@ See also these two other links with additional guidance:<br />
 <br />
 
 **PROCÉS DE SELECCIÓ**<br />
-1.	Els candidats han de presentar: 1) el seu CV en anglès, 2) una carta de presentació (d'un màxim de 500 paraules, també en anglès, especificant en quina línia o línies de recerca està interessat el candidat) i, 3) dos cartes de recomanació de professors o investigadors a **m.fernandez@creaf.uab.cat**.<br />
-2.	**Pre-selecció**: determinació del compliment dels requisits mínims de l’oferta.<br />
-3.	**Selecció**: avaluació dels candidats preseleccionats mitjançant una puntuació basada en criteris objectius. Els candidats que presentin les puntuacions més altes seran convocats a una entrevista presencial o a distància i a una prova d’aptituds generals i coneixements sobre la línia de recerca triada (en funció de la residència del candidat).<br />
-4.	**Decisió final**: en cas de trobar les persones adequades per a les vacants ofertes, se'ls comunicarà formalment l'elecció.<br />
+1. **Admissió de candidatures**: els/les candidats/tes han de presentar: 1) **el seu CV en anglès**, 2) una **carta de presentació** (d'un màxim de 500 paraules, també en **anglès**, especificant en quina **línia o línies de recerca està interessat** el candidat), 3) **dues cartes de recomanació** de professors o investigadors i 4) el qüestionari adjunt a l’oferta (emplenat) a **laboral@creaf.uab.cat**, fins el 30 de Setembre de 2023, indicant el codi de referencia de l’oferta. No s'acceptaran sol·licituds referides a un altre portal, que no sigui la pròpia borsa de treball del CREAF, i amb les instruccions que figurin en aquesta.<br />
+2. **Preselecció**: determinació del compliment dels requisits mínims de l'oferta.<br />
+3. **Selecció**: valoració de les candidatures preseleccionades, mitjançant puntuació basada en criteris objectius. Les candidatures amb puntuació més alta seran convidades a una entrevista presencial o mitjançant videoconferència, depenent de la residència dels candidats.<br />
+4. **Decisió final**: en cas de trobar-se la persona adequada, es comunicarà formalment a aquesta la seva elecció, i es publicarà a la borsa de treball del CREAF la identificació de la persona escollida.<br />
 5.	Per a qualsevol pregunta, envieu un correu a: Dr. Fernández-Martínez: **m.fernandez@creaf.uab.cat**.<br />
 <br />
 
