@@ -55,7 +55,7 @@ social:
   link: https://www.researchgate.net/profile/Xin-Song-30
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-5661-3610
+  link: https://orcid.org/0000-0001-8830-6642
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
