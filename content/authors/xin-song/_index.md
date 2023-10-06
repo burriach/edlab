@@ -33,7 +33,7 @@ education:
     year: 2018
   - course: BSc in Biological Sciences
     institution: Northwest University, China
-    year: 2008
+    year: 2015
 
 
 # Social/Academic Networking
