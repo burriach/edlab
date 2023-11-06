@@ -57,6 +57,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ecio-Souza-Diniz/
+- icon: publons
+  icon_pack: ai
+  link: https://www.webofscience.com/wos/author/record/708113
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-3543-6571
