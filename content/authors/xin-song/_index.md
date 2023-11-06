@@ -15,7 +15,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xin Song is a postdoctoral researcher at the EDM team supported by the STOIKOS project since October 2023. During her MSc and Ph.D. studies, her research was primarily focused on the community succession and soil properties after legume introduction on abandoned farmland, mainly about soil organic carbon sequestration, plant succession, and phosphorus limitation. Within the STOIKOS project, she will work on how the elemental composition and diversity in agriculture can help crops improve their yields, stability and other desirable services (e.g., soil carbon sequestration).  
+bio: Xin Song is a postdoctoral researcher at the EDM team supported by the ERC-STOIKOS and ETRAITS projects.  
 
 interests:
 - Soil organic carbon sequestration
@@ -75,4 +75,4 @@ user_groups:
 
 ---
 
-Xin Song is a postdoctoral researcher at the EDM team supported by the STOIKOS project since October 2023. During her MSc and Ph.D. studies, her research was primarily focused on the community succession and soil properties after legume introduction on abandoned farmland, mainly about soil organic carbon sequestration, plant succession, and phosphorus limitation. Within the STOIKOS project, she will work on how the elemental composition and diversity in agriculture can help crops improve their yields, stability and other desirable services (e.g., soil carbon sequestration).  
+Xin Song is a postdoctoral researcher at the EDM team supported by the ERC-STOIKOS and ETRAITS projects. During her MSc and Ph.D. studies, her research was primarily focused on the community succession and soil properties after legume introduction on abandoned farmland, mainly about soil organic carbon sequestration, plant succession, and phosphorus limitation. Within the STOIKOS project, she will work on how the elemental composition and diversity in agriculture can help crops improve their yields, stability and other desirable services (e.g., soil carbon sequestration). Within ETRAITS, Xin Song will investigate the coordination of organism traits and elementomes, while taking into account the size of their genomes.
