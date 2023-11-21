@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MSc in Conservation
+  - course: MSc in Conservation of biodiversity
     institution: Universitat de Barcelona
     year: Since 2023
   - course: BSc in Environmental Sciences
