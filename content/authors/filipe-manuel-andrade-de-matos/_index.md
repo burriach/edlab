@@ -4,7 +4,7 @@ title: Filipe Manuel Andrade de Matos
 
 # Username (this should match the folder name)
 authors:
-- filipe-andrade
+- filipe-manuel-andrade-de-matos
 
 # Is this the primary user of the site?
 superuser: false
