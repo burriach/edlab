@@ -14,7 +14,7 @@ draft: false
 **Principal investigator:**<br />
 *{{< staticref "/author/filipe-manuel-andrade-de-matos/" "newtab" >}}Filipe Andrade{{< /staticref >}}*<br />
 **Funders:** <br />
-*Salvador Grau i Tort fellowship (Alt Pirineu Natural Park)*
+*Salvador Grau i Tort fellowship (Alt Pirineu Natural Park)*<br />
 **Type of project:** *Competitive*<br />
 **Reference:** *Not available* <br />
 **Host institutions:** <br />
