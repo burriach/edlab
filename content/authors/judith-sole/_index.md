@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alba Martín
+title: Judith Solé
 
 # Username (this should match the folder name)
 authors:
-- alba-martin
+- judith-sole
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,21 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lab technician working for the STOIKOS project  
+bio: Lab and field technician working for the ECOFONTS project
 
 interests:
-- Bryology
-- Functional traits
-- Biological indicators
+- Ficology and bryology
+- Riparian and lentic ecosystems
+- Disturbances and global change
 
 education:
   courses:
-  - course: MSc in Terrestrial Ecology
+  - course: MSc in Terrestrial Ecology and Conservation of Biodiversity
     institution: Universitat Autònoma de Barcelona
-    year: 2022
-  - course: BSc in Biology
+    year: 2021
+  - course: BSc in Environmental Sciences
     institution: University of Barcelona
-    year: 2020
+    year: 2018
 
 
 # Social/Academic Networking
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:73amartin@gmail.com'
+  link: 'mailto:j.sole@creaf.uab.cat'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -65,8 +65,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Technicians
-- Alumni
 
 ---
 
-Alba Martín was a MSc student supervised by Dr. Marcos Fernández-Martínez and Profs. Francesc Sabater and Josep Peñuelas, studying how the isotopic signatures of bryophytes change as a response to environmental pollution. Alba worked as a technician for the ES-BEF project and has now rejoined the team in May 2023 as technician for the ERC-StG STOIKOS project.
+Judith Solé is a technician for the ECOFONTS project, supervised by Dr. Marcos Fernández Martínez. During her MSc studies, her research was focused on post-fire regeneration patterns of forest ecosystems. She later specialized on studying riparian and lentic biodiversity and riverbank asessment. The ongoing research she will be involved in investigates the role of global change in spring ecosystems.

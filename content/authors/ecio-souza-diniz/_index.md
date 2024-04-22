@@ -4,7 +4,7 @@ title: Écio Souza Diniz
 
 # Username (this should match the folder name)
 authors:
-- ecio_souza_diniz
+- ecio-souza-diniz
 
 # Role/position
 role: Postdoctoral researcher

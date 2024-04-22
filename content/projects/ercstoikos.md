@@ -14,6 +14,8 @@ Life on Earth, as we have known it for millennia, is at stake. Human activities 
 
 **STOIKOS**: Derived from the Greek stoicheiódis oikología (elemental ecology). <br />
 
+**Principal investigator:**<br />
+*{{< staticref "https://elemdiv.netlify.app/author/marcos-fernandez-martinez/" "newtab" >}}Dr. Marcos Fernández-Martínez{{< /staticref >}}*<br />
 **Funder:** *European Research Council*<br />
 **Type of project:** *Starting Grant*<br />
 **Reference:** *ERC-2022-STG 101076740-STOIKOS*<br />
@@ -25,4 +27,13 @@ Life on Earth, as we have known it for millennia, is at stake. Human activities 
 **End date:** *30 April 2028*<br />
 **Webpage:** *{{< staticref "https://stoikos.creaf.cat/" "newtab" >}}https://stoikos.creaf.cat/{{< /staticref >}}*<br />
 **Twitter:** *{{< staticref "https://twitter.com/STOIKOS_ERC" "newtab" >}}@STOIKOS_ERC{{< /staticref >}}*<br />
-
+**Working team:**<br />
+*{{< staticref "/author/roger-grau-andres/" "newtab" >}}Dr. Roger Grau{{< /staticref >}}*<br />
+*{{< staticref "/author/alba-martin/" "newtab" >}}Alba Martín{{< /staticref >}}*<br />
+*{{< staticref "/author/francesc-sabater/" "newtab" >}}Prof. Francesc Sabater{{< /staticref >}}*<br />
+*{{< staticref "/author/ecio-souza-diniz/" "newtab" >}}Dr. Écio Souza Diniz{{< /staticref >}}*<br />
+*{{< staticref "/author/eladio-rodriguez-penedo/" "newtab" >}}Eladio Rodriguez Penedo{{< /staticref >}}*<br />
+*{{< staticref "/author/filipe-manuel-andrade-de-matos/" "newtab" >}}Filipe Manuel Andrade de Matos{{< /staticref >}}*<br />
+*{{< staticref "/author/xin-song/" "newtab" >}}Dr. Xin Song{{< /staticref >}}*<br />
+*{{< staticref "/author/judith-sole/" "newtab" >}}Judith Solé{{< /staticref >}}*<br />
+*{{< staticref "/author/jordi-corbera/" "newtab" >}}Jordi Corbera{{< /staticref >}}*<br />
