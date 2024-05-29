@@ -5,7 +5,7 @@ image:
   focal_point: "bottom"
 ---
 
-**Marie Skłodowska-Curie Actions (Deadline ~September 2024)**
+**Marie Skłodowska-Curie Actions**
 <!--more-->
 
 With these fellowships you can join us as a postdoctoral researcher for 2 years. 
@@ -13,7 +13,7 @@ With these fellowships you can join us as a postdoctoral researcher for 2 years.
 **General description**<br />
 The proposal includes your CV and a project including impact and dissemination activities that have to be agreed with the host research group.
 
-*Next call will open around April and close around September 2024*. <br />
+*Next call will close around September 2024*. <br />
 
 
 **Check all information in the following webpage:**

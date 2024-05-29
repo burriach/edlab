@@ -5,7 +5,7 @@ image:
   focal_point: "bottom"
 ---
 
-**BEATRIU DE PINÓS POSTDOCTORAL FELLOWSHIP (2024 call opening soon)**
+**BEATRIU DE PINÓS POSTDOCTORAL FELLOWSHIP (next call expected January 2025)**
 <!--more-->
 
 With these fellowships you can join us as a postdoctoral researcher for 3 years. These are competitive fellowships co-funded with Marie Curie funding. 
@@ -15,7 +15,7 @@ The purpose of the Beatriu de Pinós programme is to award the grants on a compe
 
 The proposal includes your CV, a 10-page project and impact and dissemination activities that have to be agreed with the host research group.
 
-*Next call will open around January 2024*. <br />
+*Next call will open around January 2025*. <br />
 
 
 **Contact information**<br />

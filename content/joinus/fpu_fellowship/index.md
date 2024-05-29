@@ -5,7 +5,7 @@ image:
   focal_point: "bottom"
 ---
 
-**FPU FELLOWSHIP FOR PHD STUDIES (opening soon ~January 2024)**
+**FPU FELLOWSHIP FOR PHD STUDIES**
 <!--more-->
 
 With these fellowships you can join our PhD program in Terrestrial Ecology at CREAF - Universitat Autònoma de Barcelona:
@@ -26,6 +26,7 @@ Email:  applicants.fpu@universidades.gob.es
 **Check all information in the following webpage:**
 **{{< staticref "https://www.universidades.gob.es/ayudas-para-la-formacion-de-profesorado-universitario-fpu-2022/" "newtab" >}}https://www.universidades.gob.es/ayudas-para-la-formacion-de-profesorado-universitario-fpu-2022/{{< /staticref >}}**
 
+*Next call will open around January 2025*. <br />
 
 <!--more-->
 

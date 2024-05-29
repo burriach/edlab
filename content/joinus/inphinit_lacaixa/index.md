@@ -5,7 +5,7 @@ image:
   focal_point: "bottom"
 ---
 
-**LaCaixa INPHINIT FELLOWSHIPS FOR PHD STUDIES (NOW OPEN!)**
+**LaCaixa INPHINIT FELLOWSHIPS FOR PHD STUDIES**
 <!--more-->
 
 With these fellowships you can join our PhD program in Terrestrial Ecology at CREAF - Universitat Autònoma de Barcelona:
@@ -31,6 +31,8 @@ Only 30 for incoming and 30 for retaining. This is an extremely competitive fell
 
 **Contact information**
 Check the links above. 
+
+*Next call will open around December 2024*. <br />
 
 <!--more-->
 

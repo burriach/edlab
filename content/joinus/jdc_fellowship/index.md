@@ -5,7 +5,7 @@ image:
   focal_point: "bottom"
 ---
 
-**Juan de la Cierva POSTDOCTORAL FELLOWSHIP (opening soon ~January 2024)**
+**Juan de la Cierva POSTDOCTORAL FELLOWSHIP**
 <!--more-->
 
 **General description**
@@ -16,6 +16,7 @@ The application consists of filling in an online form and providing a short summ
 **Check all information in the following webpage:**
 **{{< staticref "https://www.aei.gob.es/en/announcements/announcements-finder/ayudas-contratos-juan-cierva-2022/convocatoria" "newtab" >}}https://www.aei.gob.es/en/announcements/announcements-finder/ayudas-contratos-juan-cierva-2022/convocatoria{{< /staticref >}}**
 
+*Next call will open around January 2025*. <br />
 
 <!--more-->
 

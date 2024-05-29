@@ -5,7 +5,7 @@ image:
   focal_point: "bottom"
 ---
 
-**FI-Joan Oró FELLOWSHIP FOR PHD STUDIES (2024 call is now CLOSED)**
+**FI-Joan Oró FELLOWSHIP FOR PHD STUDIES**
 <!--more-->
 
 With these fellowships you can join our PhD program in Terrestrial Ecology at CREAF - Universitat Autònoma de Barcelona:
