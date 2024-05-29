@@ -68,4 +68,4 @@ user_groups:
 
 ---
 
-Judith Solé is a technician for the ECOFONTS project, supervised by Dr. Marcos Fernández Martínez. During her MSc studies, her research was focused on post-fire regeneration patterns of forest ecosystems. She later specialized on studying riparian and lentic biodiversity and riverbank asessment. The ongoing research she will be involved in investigates the role of global change in spring ecosystems.
+Judith Solé is a technician for the ECOFONTS project, supervised by Dr. Marcos Fernández Martínez. During her MSc studies, her research was focused on post-fire regeneration patterns of forest ecosystems. She later specialized on studying riparian and lentic biodiversity and riverbank asessment. The ongoing research she will be involved in investigating the role of global change in spring ecosystems.
