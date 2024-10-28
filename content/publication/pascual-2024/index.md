@@ -1,22 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Effect of climate, crop, and management on soil phosphatase activity in croplands:
-  A global investigation and relationships with crop yield'
+title: 'The Cultural Ecohydrogeology of Mediterranean-Climate Springs: A Global Review
+  with Case Studies'
 subtitle: ''
 summary: ''
 authors:
-- Patrícia Campdelacreu Rocabruna
-- Xavier Domene
-- Catherine Preece
-- Marcos Fernández-Mart\ńez
-- Joan Maspons
-- Josep Peñuelas
-tags:
-- phosphomonoesterases
+- Roger Pascual
+- Lucia Piana
+- Sami Ullah Bhat
+- Pedro Fidel Castro
+- Jordi Corbera
+- Dion Cummings
+- Cristina Delgado
+- Eugene Eades
+- Roderick J Fensham
+- Marcos Fernández-Martínez
+- Verónica Ferreira
+tags: []
 categories: []
 date: '2024-01-01'
-lastmod: 2024-10-28T15:14:14+01:00
+lastmod: 2024-10-28T14:58:28+01:00
 featured: false
 draft: false
 
@@ -34,13 +38,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-10-28T14:14:14.179045Z'
+publishDate: '2024-10-28T13:58:28.215475Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*European Journal of Agronomy*'
-doi: 10.1016/j.eja.2024.127358
-links:
-- name: URL
-  url: https://linkinghub.elsevier.com/retrieve/pii/S116103012400279X
+publication: '*Environments*'
+doi: 10.3390/environments11060110
 ---

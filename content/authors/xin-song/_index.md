@@ -7,7 +7,7 @@ authors:
 - xin-song
 
 # Role/position
-role: Postdoctoral researcher
+role: Juan de la Cierva postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
@@ -15,7 +15,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xin Song is a postdoctoral researcher at the EDM team supported by the ERC-STOIKOS and ETRAITS projects.  
+bio: Xin Song is a postdoctoral researcher at the EDM team supported by the ERC-STOIKOS and ETRAITS projects. In 2025 she was awarded a Juan de la Cierva fellowship. 
 
 interests:
 - Soil organic carbon sequestration

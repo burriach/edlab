@@ -23,6 +23,7 @@ content:
   - Technicians
   - MSc Students
   - BSc Students
+  - Finished PhD Students
   - Collaborators
   - Grad Students
   - Administration

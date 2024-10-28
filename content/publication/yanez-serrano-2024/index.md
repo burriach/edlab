@@ -1,22 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Effect of climate, crop, and management on soil phosphatase activity in croplands:
-  A global investigation and relationships with crop yield'
+title: Drivers of biogenic volatile organic compound emissions in hygrophytic bryophytes
 subtitle: ''
 summary: ''
 authors:
-- Patrícia Campdelacreu Rocabruna
-- Xavier Domene
-- Catherine Preece
-- Marcos Fernández-Mart\ńez
-- Joan Maspons
-- Josep Peñuelas
-tags:
-- phosphomonoesterases
+- A.M. Yáñez-Serrano
+- J. Corbera
+- M. Portillo-Estrada
+- I.A. Janssens
+- J. Llusià
+- I. Filella
+- J. Peñuelas
+- C. Preece
+- F. Sabater
+- M. Fernández-Martínez
+tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2024-10-28T15:14:14+01:00
+date: '2024-10-01'
+lastmod: 2024-10-28T14:58:27+01:00
 featured: false
 draft: false
 
@@ -34,13 +36,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-10-28T14:14:14.179045Z'
+publishDate: '2024-10-28T13:58:27.635506Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*European Journal of Agronomy*'
-doi: 10.1016/j.eja.2024.127358
+publication: '*Science of The Total Environment*'
+doi: 10.1016/j.scitotenv.2024.174293
 links:
 - name: URL
-  url: https://linkinghub.elsevier.com/retrieve/pii/S116103012400279X
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0048969724044413
 ---

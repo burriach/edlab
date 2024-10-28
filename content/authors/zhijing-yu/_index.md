@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD student (CSC fellowship)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student supervised by Dr. Marcos Fernández-Martínez
+bio: PhD student supervised by Dr. Marcos Fernández-Martínez, Dr, Roger Grau and Dr. Xin Song
 
 interests:
 - Ecosystem functioning

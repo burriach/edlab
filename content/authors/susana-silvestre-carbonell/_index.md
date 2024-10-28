@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: Former PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://globalecology.creaf.cat/wp-content/uploads/2020/12/CV_ingles_Susana_Silvestre.pdf"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student supervised by Prof. Josep Peñuelas, and Drs. Romà Ogaya and Marcos Fernández-Martínez.  
+bio: Former PhD student, supervised by Prof. Josep Peñuelas, and Drs. Romà Ogaya and Marcos Fernández-Martínez. She succesfully defended on the 25/10/2024.
 
 interests:
 - Ecophysiology
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Finished PhD Students
 ---
 
-PhD student supervised by Prof. Josep Peñuelas, and Drs. Romà Ogaya and Marcos Fernández-Martínez. Susana Silvestre Carbonell studies the effect of long-term experimental drought on Mediterranean forests and shrublands.
+Former PhD student supervised by Prof. Josep Peñuelas, and Drs. Romà Ogaya and Marcos Fernández-Martínez. Susana Silvestre Carbonell studied the effect of long-term experimental drought on Mediterranean forests and shrublands. Dr. Silvestre-Carbonell succesfully defended her PhD thesis on the 25/10/2024.

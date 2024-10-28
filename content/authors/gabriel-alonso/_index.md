@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student
+role: Former master student
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: MSc in Conservation of biodiversity
     institution: Universitat de Barcelona
-    year: Since 2023
+    year: 2023 - 2024
   - course: BSc in Environmental Sciences
     institution: University of Barcelona
     year: 2021
@@ -64,8 +64,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- MSc Students
+- Alumni
 
 ---
 
-Gabriel Alonso is a MSc student supervised by Dr. Marcos Fernández-Martínez, Dr. Roger Grau and Prof. Francesc Sabater, assessing the impact of acustic pollution on bird communities in Montseny natural park.
+Gabriel Alonso is a MSc student supervised by Dr. Marcos Fernández-Martínez, Dr. Roger Grau and Prof. Francesc Sabater, assessing the impact of acustic pollution on bird communities in Montseny natural park. Gabriel successfuly defender his master thesis in September 2024.
