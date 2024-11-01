@@ -23,11 +23,11 @@ content:
   - Technicians
   - MSc Students
   - BSc Students
+  - Visitors
   - Finished PhD Students
   - Collaborators
   - Grad Students
   - Administration
-  - Visitors
   - Alumni
 design:
   show_interests: false
