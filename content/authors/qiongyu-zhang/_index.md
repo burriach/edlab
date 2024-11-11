@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zhangqy@tju.edu.cn'
+  link: 'mailto:zhangqy@tju.edu.cn'
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Qiongyu-Zhang-2
