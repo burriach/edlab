@@ -7,7 +7,7 @@ authors:
 - guille-peguero
 
 # Role/position/tagline
-role: Tenure-track lecturer
+role: Tenure-track professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
