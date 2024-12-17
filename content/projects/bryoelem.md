@@ -30,6 +30,10 @@ BRYOELEM will evaluate the biogeochemical niche hypothesis through a study of br
 *{{< staticref "/author/alba-anadon-rosell/" "newtab" >}}Dr. Alba Anadon-Rosell{{< /staticref >}}*<br />
 *{{< staticref "/author/helena-vallicrosa/" "newtab" >}}Dr. Helena Vallicrosa{{< /staticref >}}*<br />
 *{{< staticref "https://www.creaf.cat/staff/estela-romero" "newtab" >}}Dr. Estela Romero{{< /staticref >}}*<br />
+*{{< staticref "/author/xin-song/" "newtab" >}}Dr. Xin Song{{< /staticref >}}*<br />
+*{{< staticref "/author/eladio-rodriguez-penedo/" "newtab" >}}Eladio Rodríguez-Penedo{{< /staticref >}}*<br />
 *{{< staticref "/author/judith-sole/" "newtab" >}}Judith Solé{{< /staticref >}}*<br />
+**Collaborators:**<br />
 *{{< staticref "/author/marcos-fernandez-martinez/" "newtab" >}}Dr. Marcos Fernández-Martínez{{< /staticref >}}*<br />
 *{{< staticref "/author/jordi-corbera/" "newtab" >}}Jordi Corbera{{< /staticref >}}*<br />
+*{{< staticref "/author/francesc-sabater/" "newtab" >}}Dr. Francesc Sabater{{< /staticref >}}*<br />
