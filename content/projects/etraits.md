@@ -22,8 +22,8 @@ The elemental composition of matter determines its physical and chemical propert
 **Funding:** *200 k€*<br />
 **Host institutions:** <br />
 *{{< staticref "https://creaf.cat" "newtab" >}}CREAF{{< /staticref >}}*<br />
-**Start date:** *1 January 2024*<br />
-**End date:** *31 December 2027*<br />
+**Start date:** *1 September 2023*<br />
+**End date:** *31 August 2026*<br />
 **Working team:**<br />
 *{{< staticref "https://www.ucm.es/bcv//joan-garcia-porta" "newtab" >}}Dr. Garcia-Porta{{< /staticref >}}*<br />
 *{{< staticref "https://www.creaf.cat/staff/alba-anadon-rosell" "newtab" >}}Dr. Anadon-Rosell{{< /staticref >}}*<br />
