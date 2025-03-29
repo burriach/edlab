@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student supervised by Dr. Marcos Fernández-Martínez
+bio: PhD student supervised by Drs. Marcos Fernández-Martínez and Roberto Molowny
 
 interests:
 - Mathematical methods in ecology
@@ -70,4 +70,4 @@ user_groups:
 - PhD Students
 ---
 
-Filipe Manuel Andrade de Matos is a PhD student of the EDM research team supervised by Dr. Marcos Fernández-Martínez. Within the framework of the ERC-STOIKOS project, Filipe will work with the concept of elementomes and elemental diversity using advanced statistical and modelling techniques in order to provide generalisable results amongst taxa and different levels of biological organisation. 
+Filipe Manuel Andrade de Matos is a PhD student of the EDM research team supervised by Drs. Marcos Fernández-Martínez and Roberto Molowny. Within the framework of the ERC-STOIKOS project, Filipe will work with the concept of elementomes and elemental diversity using advanced statistical and modelling techniques in order to provide generalisable results amongst taxa and different levels of biological organisation. 

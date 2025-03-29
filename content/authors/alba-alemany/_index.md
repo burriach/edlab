@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Eladio Rodríguez Penedo
+title: Alba Alemany Sancho
 
 # Username (this should match the folder name)
 authors:
-- eladio-rodriguez-penedo
+- alba-alemany
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,28 +18,27 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student supervised by Drs. Marcos Fernández-Martínez, Roger Grau i Francesc Sabater
+bio: PhD student supervised by Drs. Marcos Fernández-Martínez, Estela Romero and Joan Pino
 
 interests:
+- Lentic, lotic, and riparian ecosystems
 - Biodiversity and Ecosystem functioning
-- Species interactions
-- Macroecology
-- Remote sensing
-- Invasion Biology
-- Plant Ecology
-
+- Macrophytes
+- Global Change
+- Biodiversity Conservation
+- Environmental law and policy
 
 education:
   courses:
   - course: PhD student in Terrestrial Ecology
     institution: Universitat Autònoma de Barcelona
-    year: 2024-2027
-  - course: MSc in Biodiversity Conservation
-    institution: University of Huelva
-    year: 2021
+    year: 2025-2029
+  - course: MSc in Sustainability Science, Policy and Society
+    institution: Maastricht University
+    year: 2020-2021
   - course: BSc in Biology
     institution: University of Santiago de Compostela
-    year: 2019
+    year: 2016-2020
 
 
 # Social/Academic Networking
@@ -49,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:e.rodriguez@creaf.uab.cat'
+  link: 'mailto:a.alemany@creaf.cat'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -74,4 +73,4 @@ user_groups:
 - PhD Students
 ---
 
-Eladio Rodríguez-Penedo is a PhD student of the EDM research team supervised by Drs. Marcos Fernández-Martínez, Roger Grau-Andrés, and Francesc Sabater. Within the framework of the ERC-STOIKOS project, Eladio will work with the concept of elementomes and elemental diversity with the overall objective of providing a better understanding of ecosystem functioning and species interactions by using experiments and observations, both from the field and from remote sensing. 
+Alba Alemany is a PhD researcher in Ecology and Biodiversity of Mediterranean springs at the EDM team, supervised by Drs. Marcos Fernández-Martínez, Estela Romero, and Joan Pino. She will be investigating the spatial and temporal dynamics of biodiversity in Mediterranean spring ecosystems and their association with the main global change drivers. With a background in Biology and a Master’s in Sustainability Science and Policy. Her research interests include biodiversity and ecosystem functioning, freshwater ecology, botany, biodiversity conservation, and environmental law and policy.
