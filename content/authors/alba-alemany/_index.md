@@ -37,7 +37,7 @@ education:
     institution: Maastricht University
     year: 2020-2021
   - course: BSc in Biology
-    institution: University of Santiago de Compostela
+    institution: University of Barcelona
     year: 2016-2020
 
 
