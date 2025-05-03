@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alba Martín
+title: Oriol Lluch
 
 # Username (this should match the folder name)
 authors:
-- alba-martin
+- oriol-lluch
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,21 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lab technician working for the STOIKOS project  
+bio: Lab and field technician working for the BRYOELEM project
 
 interests:
-- Bryology
-- Functional traits
-- Biological indicators
+- Vascular plants and bryophyte taxonomy 
+- Habitats and plant community ecology
+- Biogeography
 
 education:
   courses:
-  - course: MSc in Terrestrial Ecology
-    institution: Universitat Autònoma de Barcelona
-    year: 2022
+  - course: MSc in Terrestrial Ecology and Biodiversity Management
+    institution: Autonomous University of Barcelona
+    year: 2025
   - course: BSc in Biology
     institution: University of Barcelona
-    year: 2020
+    year: 2024
 
 
 # Social/Academic Networking
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:73amartin@gmail.com'
+  link: 'mailto:o.lluch@creaf.cat'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -64,9 +64,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former team members
-- Alumni
+- Technicians
 
 ---
 
-Alba Martín was a MSc student supervised by Dr. Marcos Fernández-Martínez and Profs. Francesc Sabater and Josep Peñuelas, studying how the isotopic signatures of bryophytes change as a response to environmental pollution. Alba worked as a technician for the ES-BEF project and has now rejoined the team in May 2023 as technician for the ERC-StG STOIKOS project.
+Oriol Lluch Oms is a technician for the BRYOELEM project, supervised by Drs. Roger Grau Andrés and Marcos Fernández Martínez. His BSc thesis was focused on the productive and reproductive traits of Salix herbacea - a snowbed specialist -  along a snowmelt gradient. During his MSc thesis, he studied shifts in snowbed plant communities over the past 20 years.

@@ -24,6 +24,7 @@ content:
   - MSc Students
   - BSc Students
   - Visitors
+  - Former team members
   - Finished PhD Students
   - Collaborators
   - Grad Students
