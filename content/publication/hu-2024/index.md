@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Zhenhong Hu
-- Marcos Fernández‐Martínez
+- Marcos Fernández-Martínez
 - Qinsi He
 - Zhiyuan Xu
 - Lin Jiang

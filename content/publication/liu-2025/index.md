@@ -1,24 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Drivers of biogenic volatile organic compound emissions in hygrophytic bryophytes
+title: Phosphorus addition diminishes the negative effect of nitrogen addition on
+  methane sink in subtropical forest soils
 subtitle: ''
 summary: ''
 authors:
-- Ana María Yáñez-Serrano
-- Jordi Corbera
-- M. Portillo-Estrada
-- Ivan A. Janssens
-- Joan Llusià
-- Iolanda Filella
-- Josep Peñuelas
-- Catherine Preece
-- Francesc Sabater
+- Yanjun Liu
+- Wensheng Xiao
+- Jing Feng
 - Marcos Fernández-Martínez
+- Carly Stevens
+- Zemei Zheng
+- Xiaoqi Zhou
 tags: []
 categories: []
-date: '2024-10-01'
-lastmod: 2024-10-28T14:58:27+01:00
+date: '2025-02-01'
+lastmod: 2025-05-03T17:15:08+02:00
 featured: false
 draft: false
 
@@ -36,13 +34,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-10-28T13:58:27.635506Z'
+publishDate: '2025-05-03T15:15:07.787355Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Science of The Total Environment*'
-doi: 10.1016/j.scitotenv.2024.174293
+doi: 10.1016/j.scitotenv.2025.178461
 links:
 - name: URL
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0048969724044413
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0048969725000956
 ---

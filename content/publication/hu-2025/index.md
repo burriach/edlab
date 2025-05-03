@@ -1,24 +1,37 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Drivers of biogenic volatile organic compound emissions in hygrophytic bryophytes
+title: Global Change Impacts on Forest Elementomes and Insights for Improved Management
+  Practices
 subtitle: ''
 summary: ''
 authors:
-- Ana María Yáñez-Serrano
-- Jordi Corbera
-- M. Portillo-Estrada
-- Ivan A. Janssens
-- Joan Llusià
-- Iolanda Filella
+- Zhenhong Hu
+- Pu Yan
+- Binbin Li
+- Xin Song
+- Jiwei Li
 - Josep Peñuelas
-- Catherine Preece
-- Francesc Sabater
+- Alessio Collalti
 - Marcos Fernández-Martínez
-tags: []
+tags:
+- Biogeochemistry
+- Climate change
+- Droughts
+- ECO
+- Forest management
+- Nitrogen deposition
+- Warming
+- biogeochemistry
+- climate change
+- droughts
+- eco 2
+- forest management
+- nitrogen deposition
+- warming
 categories: []
-date: '2024-10-01'
-lastmod: 2024-10-28T14:58:27+01:00
+date: '2025-03-01'
+lastmod: 2025-05-03T17:15:07+02:00
 featured: false
 draft: false
 
@@ -36,13 +49,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-10-28T13:58:27.635506Z'
+publishDate: '2025-05-03T15:15:07.487577Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Science of The Total Environment*'
-doi: 10.1016/j.scitotenv.2024.174293
+publication: '*Current Climate Change Reports*'
+doi: 10.1007/s40641-025-00200-7
 links:
 - name: URL
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0048969724044413
+  url: https://doi.org/10.1007/s40641-025-00200-7 https://link.springer.com/10.1007/s40641-025-00200-7
 ---
