@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Anna Sánchez de Mingo
+title: Lía Guallar Gual
 
 # Username (this should match the folder name)
 authors:
-- anna-sanchez
+- lia-guallar
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lab and field technician
+role: Intern and BSc student
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lab and field technician working for the BRYOELEM project
+bio: Biology student collaborating with the EDM research team
 
 interests:
-- Peatland and wetland science 
-- Pollination
-- Briology
+- Bryophytes
+- Volatile organic compounds
+- Elemental ecology
 
 education:
   courses:
-  - course: MSc in Ecology, Environmental Management and Restoration
-    institution: University of Barcelona
-    year: 2024
-  - course: BSc in Environmental Biology
+  - course: Studying BSc in Biology
     institution: Autonomous University of Barcelona
-    year: 2022
+    year: Ongoing
 
 
 # Social/Academic Networking
@@ -42,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:a.demingo@creaf.cat'
+  link: 'mailto:o.lluch@creaf.cat'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -64,8 +61,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former team members
+- BSc Students
 
 ---
 
-Anna Sánchez is a technician for the BRYOELEM project, supervised by Drs. Roger Grau and Marcos Fernández Martínez. Her MSc thesis was focused on the effects of traditional land management and landscape effects on plant and pollinator communities in mountain pastures.
+Lía Guallar Gual is a biology student conducting an internship at the EDM research team, supervised by Eladio Rodríguez-Penedo and Dr. Marcos Fernández Martínez. Her BSc thesis is focused on synthesising the available information regarding the importance of chemical elements on plant metabolic pathways. Lía is also involved in field and lab work within all projects of the EDM research team. 
