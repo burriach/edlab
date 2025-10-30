@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Amanda Casanovas
+title: Carles Casas
 
 # Username (this should match the folder name)
 authors:
-- amanda-casanovas
+- carles-casas
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research technician (former master student)
+role: Master student
 
 # Organizations/Affiliations
 organizations:
@@ -21,21 +21,18 @@ organizations:
 bio: MSc student supervised by Dr. Marcos Fernández-Martínez and Dr. Roger Grau
 
 interests:
-- Plant community ecology
-- Botany and bryology
-- Scientific botanical illustration
+- Ornithology and Avian Ecology
+- Fieldwork and Bird Monitoring
+- Applied Ecology and Nature Management
 
 education:
   courses:
   - course: MSc in Biodiversity
-    institution: Universitat de Barcelona
-    year: 2024 - 2025
-  - course: MSc in Scientific Illustration
-    institution: University of Girona
-    year: 2022 - 2023
-  - course: BSc in Biology (especiality of Biodiversity)
     institution: University of Barcelona
-    year: 2017 - 2021
+    year: 2025 - 2026
+  - course: BSc in Environmental Sciences
+    institution: University of Girona
+    year: 2019 - 2023
 
 
 # Social/Academic Networking
@@ -45,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:amandacasanovas4@gmail.com'
+  link: 'mailto:ccasasmi7@alumnes.ub.edu'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -67,9 +64,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Technicians
-- Alumni
+- MSc Students
 
 ---
 
-Amanda Casanovas is a MSc student supervised by Dr. Marcos Fernández-Martínez and Dr. Roger Grau investigating the relationship between the elemental composition of bryophytes and their functional traits.
+Carles Casas is a MSc student supervised by Dr. Marcos Fernández-Martínez and Dr. Roger Grau investigating the relationship between noise pollution and the presence of avifauna in Montseny
