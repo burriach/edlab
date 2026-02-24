@@ -1,44 +1,38 @@
 ---
 # Display name
-title: Zhijing Yu
+title: Francisco Villazón-Orozco
 
 # Username (this should match the folder name)
 authors:
-- zhijing-yu
+- francisco-villazon-orozco
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (CSC fellowship)
+role: Lab and field technician
 
 # Organizations/Affiliations
 organizations:
-- name: EDM - CREAF
+- name: Elemental Diversity and Macroecology research team
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student supervised by Dr. Marcos Fernández-Martínez, Dr, Roger Grau and Dr. Xin Song
+bio: Lab and field technician working for the ETRAITS project
 
 interests:
-- Ecosystem functioning
-- Elementomes
-- Mixed forests
-- Forest restoration approaches
-- Soil organic carbon mineralization
-
+- Ecological networks
+- Arthropod ecology and taxonomy
+- Socioecology
 
 education:
   courses:
-  - course: PhD student in Terrestrial Ecology
-    institution: Universitat Autònoma de Barcelona
-    year: 2024-2027
-  - course: MSc in Soil and Water Conservation and Desertification Control
-    institution: Northwest A&F University, Shaanxi, China
+  - course: MSc in Ecology, management and restoration of the natural environment
+    institution: Universitat de Barcelona
     year: 2024
-  - course: BSc in Forestry
-    institution: Northwest A&F University, Shaanxi, China
-    year: 2021
+  - course: BSc in Ecology
+    institution: Pontifical Xavierian University
+    year: 2020
 
 
 # Social/Academic Networking
@@ -48,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:z.yu@creaf.cat'
+  link: 'mailto:f.villazon@creaf.uab.cat'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -70,10 +64,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former team members
-- Alumni
+- Technicians
+
 ---
 
-Zhijing Yu passed away in February 2026. We will never forget you. 
-
-Zhijing was a PhD student supervised by Dr. Marcos Fernández-Martínez, Dr. Xin Song and Dr. Roger Grau-Andrés. During her MSc studies, her research was focused on vegetation restoration, soil carbon sequestration, and the regulatory mechanism of mixed forests on soil organic carbon (SOC) fractions and mineralization. Within the STOIKOS project, Zhijing investigated the relationship between elemental diversity and soil carbon using experiments and global datasets.
+Francisco L. Villazón-Orozco is a technician for the E-TRAITS project, supervised by Dr. Marcos Fernández-Martínez and Dr. Guille Peguero. During his MSc, his research focused on drought and litter quality effects on soil fauna contributions to decomposition. He specializes in arthropod ecology and is currently starting a PhD on the coordination between elementomes, functional traits, and life-history strategies in Arthropoda.
