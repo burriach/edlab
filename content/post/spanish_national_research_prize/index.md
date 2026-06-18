@@ -1,5 +1,5 @@
 ---
-title: Marcos Fernández-Martínez receives the Spanish National Research Prize for your researchers Ángeles Alvariño 2025
+title: Marcos Fernández-Martínez receives the Spanish National Research Prize for young researchers Ángeles Alvariño 2025
 date: 2026-05-05
 image:
   focal_point: "bottom"
