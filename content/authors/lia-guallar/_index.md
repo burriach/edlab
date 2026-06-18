@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Intern and BSc student
+role: Technician, former intern and BSc student
 
 # Organizations/Affiliations
 organizations:
@@ -62,6 +62,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - BSc Students
+- Technicians
 
 ---
 

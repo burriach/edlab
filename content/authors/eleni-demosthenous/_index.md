@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Eleni Demosthenous
+title: Eleni Demosthenous Bonastre
 
 # Username (this should match the folder name)
 authors:
-- eleni-demosthenous
+- eleni-demosthenous-bonastre
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former master student
+role: Technician
 
 # Organizations/Affiliations
 organizations:
@@ -64,8 +64,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- Technicians
 - Alumni
 
 ---
 
-Eleni Demosthenous is a MSc student supervised by Dr. Marcos Fernández-Martínez, Dr. Roger Grau and Prof. Francesc Sabater, assessing the importance of water sources (springs) for wildlife abundance using camera traps. Eleni successfuly defender her master thesis in September 2024.
+Eleni Demosthenous is a tehnician working for the EcoFonts, BRYOELEM and STOIKOS projects. She was a MSc student supervised by Dr. Marcos Fernández-Martínez, Dr. Roger Grau and Prof. Francesc Sabater, assessing the importance of water sources (springs) for wildlife abundance using camera traps. Eleni successfuly defender her master thesis in September 2024.
