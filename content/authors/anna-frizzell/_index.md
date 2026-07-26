@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ignasi Camps
+title: Anna Frizzell
 
 # Username (this should match the folder name)
 authors:
-- ignasi-camps
+- anna-frizzell
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,25 +18,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student supervised by  Dr. Marcos Fernández-Martínez, Prof. Josep Peñuelas and Dr. Estefania Muñoz.
+bio: PhD student supervised by Dr. Marcos Fernández-Martínez
 
 interests:
-- Non-linear ecosystem dynamics and biogeochemical cycle simulations
-- Multidisciplinary approaches to ecosystem modeling
-- Agent-based modeling and complex systems
-- Data science and computational simulations
+- Freshwater ecology and ecotoxicology
+- Mediterranean spring ecosystems and biodiversity conservation
+- Emerging contaminants and their impacts on aquatic communities
+- Bryophytes and diatoms as bioindicators of environmental change 
 
 education:
   courses:
-  - course: PhD student in Terrestrial Ecology
-    institution: Universitat Autònoma de Barcelona
-    year: 2025-2028
-  - course: MSc in Modeling for Science and Engineering 
+  - course: PhD in Terrestrial Ecology
     institution: Universitat Autònoma de Barcelona (UAB)
-    year: 2021-2022
-  - course: BSc in Physics
-    institution: Universitat Autònoma de Barcelona (UAB)
-    year: 2017-2021
+    year: 2026-2029
+  - course: MSc in Hydrology 
+    institution: Vrije Universiteit Amsterdam (The Netherlands)
+    year: 2023–2025
+  - course: BSc in Environmental Science
+    institution: University of Rochester, New York (USA)
+    year: 2019–2023
 
 
 # Social/Academic Networking
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:i.camps@creaf.cat'
+  link: 'mailto:a.frizzell@creaf.cat'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -71,4 +71,4 @@ user_groups:
 - PhD Students
 ---
 
-Ignasi Camps is a PhD researcher in Non-Linear Dynamics of Biogeochemical Cycles at the EDM team, supervised by Josep Peñuelas and Marcos Fernández, investigating how increasing stress from global change affects ecosystems. With a background in Physics and a Master's degree in Modeling for Science and Engineering, his research takes a multidisciplinary approach, integrating simulations, computational modeling, and data-driven methods to study biogeochemical cycles and complex ecological dynamics. His research interests span ecosystem modeling, biodiversity conservation, and the application of computational simulations to environmental sciences.
+Anna is a PhD researcher in Terrestrial Ecology within the EDM research team. Her research focuses on how emerging contaminants, such as pharmaceuticals and pesticides, affect Mediterranean spring ecosystems, using bryophytes to assess ecosystem health and long-term pollution.Before starting her PhD, she completed her Master’s degree in Hydrology at Vrije Universiteit in Amsterdam and worked as an educator in California, where she taught ecology and helped students develop a love for being outdoors. Her research interests combine ecological monitoring, freshwater conservation, and the use of bryophytes to assess pollution impacts in Mediterranean spring ecosystems. .
