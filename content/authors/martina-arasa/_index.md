@@ -1,38 +1,48 @@
 ---
 # Display name
-title: Eleni Demosthenous Bonastre
+title: Martina Arasa
+
 
 # Username (this should match the folder name)
 authors:
-- eleni-demosthenous-bonastre
+- martina-arasa
+
 
 # Is this the primary user of the site?
 superuser: false
 
+
 # Role/position
-role: Technician and former MSc student
+role: Lab and field technician
+
 
 # Organizations/Affiliations
 organizations:
 - name: Elemental Diversity and Macroecology research team
   url: ""
 
+
 # Short bio (displayed in user profile at end of posts)
-bio: MSc student supervised by Dr. Marcos Fernández-Martínez, Dr. Roger Grau and Prof. Francesc Sabater.
+bio: Lab and field technician working for the EcoFonts and STOIKOS projects
+
 
 interests:
 - Climate change
-- Functional adaptations of animals
-- Conservation genetics
+- Terrestrial and marine ecology
+- Marine literacy
+
+
 
 education:
   courses:
-  - course: MSc in Biodiversity
-    institution: Universitat de Barcelona
-    year: 2023 - 2024
-  - course: BSc in Genetics
+  - course: MSc in Oceanography and Marine Environmental Management
+    institution: University of Barcelona
+    year: 2025 - 2026
+  - course: BSc in Environmental Biology
     institution: Autonomous University of Barcelona
-    year: 2023
+    year: 2019 - 2023
+
+
 
 
 # Social/Academic Networking
@@ -42,31 +52,32 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:edemosbo7@alumnes.ub.edu'
+  link: 'mailto:m.arasa@creaf.cat'
 # - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 # - icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?#user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?#user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former team members
-- Alumni
+- Technicians
 
 ---
 
-Eleni Demosthenous is a tehnician working for the EcoFonts, BRYOELEM and STOIKOS projects. She was a MSc student supervised by Dr. Marcos Fernández-Martínez, Dr. Roger Grau and Prof. Francesc Sabater, assessing the importance of water sources (springs) for wildlife abundance using camera traps. Eleni successfuly defender her master thesis in September 2024.
+Martina Arasa Ribas is a field and lab technician for the EcoFonts and STOIKOS projects. During her master's thesis, she studied the recreational scuba divers' perceptions of ecological changes in the marine habitats of the Costa Brava, specifically focusing on coralligenous habitats.

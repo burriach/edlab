@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Lab and field technician
+role: Technician and former MSc student
 
 # Organizations/Affiliations
 organizations:
