@@ -15,7 +15,7 @@ To achieve the main aims of the project, we will conduct vegetation inventories 
 
 The PhD candidate will develop skills in elemental ecology, analytical chemistry, and metabolomics in the field of ecology. Although a high degree of independence, initiative, and self-directed learning will be expected throughout the PhD, particularly in developing analytical, computational, and quantitative skills, the candidate will progressively build these competencies through hands-on research, specialized training and expert supervision, especially on the most technically demanding aspects of elementome and metabolome analyses. Through this research, the PhD student will gain deep expertise in data processing, statistical modelling, and data integration across environmental gradients, building a strong foundation in the fields of ecological stoichiometry and eco-metabolomics. This PhD thesis will provide the student with cutting-edge interdisciplinary skills to address complex ecological questions and pursue a successful, competitive scientific career.
 
-Apply here: https://creaf.factorial.com/job_posting/predoctoral-researcher-for-emeta-rare-ref-26-058-iv00256-328264?token=300580
+Apply here: https://creaf.factorial.com/job_posting/predoctoral-researcher-for-emeta-rare-ref-26-058-iv00256-328264
 
 <!--more-->
 **Good luck, candidates!**
